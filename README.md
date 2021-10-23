@@ -6,7 +6,18 @@ Since toki pona is a very personal language, this will reflect my own opinions a
 That said, if you keep to this `nasin toki`, you will be well understood by most toki pona speakers.
 
 ## lipu toki / Table of Contents
-TODO
+
+- [how to read](https://github.com/kilipan/nasin-toki#how-to-read)
+- [general principles](https://github.com/kilipan/nasin-toki#general-principles)
+- [word types](https://github.com/kilipan/nasin-toki#word-types)
+  - [particles](https://github.com/kilipan/nasin-toki#particles)
+  - [content words](https://github.com/kilipan/nasin-toki#content-words):
+    [pronouns](https://github.com/kilipan/nasin-toki#pronouns),
+    [pseudo-particles](https://github.com/kilipan/nasin-toki#pseudo-particles),
+    [prepositions](https://github.com/kilipan/nasin-toki#prepositions),
+    [preverbs](https://github.com/kilipan/nasin-toki#preverbs)
+- [sentence structure](https://github.com/kilipan/nasin-toki#sentence-structure)
+- [compound phrases](https://github.com/kilipan/nasin-toki#compound-phrases)
 
 ## how to read
 - Throughout this document, I will use variables (e.g. `X`, `Y`, `Z`).
@@ -20,7 +31,7 @@ Since toki pona is highly **context-sensitive**, there is never only a single va
 - no recursion
 TODO
 
-## types of words
+## word types
 
 ### particles
 Particles are words that have no semantic meaning on their own.
@@ -37,7 +48,7 @@ All the words that aren't mentioned in this section are pure content words.
 The pronouns are `mi` (1st person), `sina` (2nd person), `ona` (3rd person), and `ni` (demonstrative).
 As all content words in toki pona, they are *both* singular and plural (quite like the English "you").
 
-#### strange particles
+#### pseudo-particles
 The words `taso` and `anu` are mostly used as conjunction particles (meaning "but" and "or", respectively).
 They can also act as content words with semantic fields around the concepts of "alone" and "choice", respectively.
 
@@ -79,4 +90,4 @@ A *basic* toki pona sentence looks like this:
   - it is either the reciever of the action `Y` performed by `X`, e.g `soweli li pali e tomo` ~ "The animal builds a nest."
   - ... or the stimulus that `X` experiences through doing `Y`, e.g. `soweli li lukin e kili` ~ "The animal sees a fruit."
 
-## building compounds
+## compound phrases
