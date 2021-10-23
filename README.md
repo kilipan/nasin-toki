@@ -35,6 +35,7 @@ Since toki pona is highly **context-sensitive**, there is never only a single va
 
 
 ## general principles
+- implied politeness
 - no recursion
 - conjunction by repeating the appropriate particle
 
@@ -158,10 +159,30 @@ Example: In `tomo waso` ("bird-house"), the word `tomo` is the head while `waso`
 We are talking first and foremost about a `tomo`.
 The modifier tells us that the `tomo` is in some way related to `waso`.
 
+### multiple modifiers
+If multiple modifiers are present they all apply to the head of the phrase.
+We can simply append modifiers like `X Y Z` is an `X` that is related to `Y` and to `Z`
+The order in which modifiers is not strictly important, but it can be used to highlight the earlier modifiers.
+
+Examples:  
+`soweli suli pimeja` ("dark big animal")
+`jan lawa pona` ("good leader")
+
+### the particle `pi`
+To modify the head with another compounded expression instead of a single content word, we precede that expression with `pi`.
+
+Example:  
+`poki pi telo wawa` ("strong-liquid container", e.g. a cup of coffee), but  
+`poki telo wawa` ("strong liquid-container", e.g. a diamond bottle)
+
 
 ## how to use prepositions
-The [prepositions](https://github.com/kilipan/nasin-toki#prepositions) are appended to the predicate they modify.
-They are followed by a content word that describes .
+The [prepositions](https://github.com/kilipan/nasin-toki#prepositions) can be used in two ways.
+They are either appended to the predicate they modify or come directly after `li` in predicate-less sentences.
+
+Example:  
+`kasi li suli tan wawa suno` ("The plants are big because of the sun's power.")  
+`ona li kepeken ilo` ("They use tools", literally: "They, using tools." Note that while this kind of construction is not valid in English, it is so in other languages such as Russian.)
 
 
 ## how to use preverbs
