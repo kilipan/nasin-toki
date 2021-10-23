@@ -18,7 +18,14 @@ Brackets mark the bracketed part as optional, e.g. `[toki] ni li pona`
 - All translations are mere suggestions.
 Since toki pona is highly **context-sensitive**, there is never only a single valid interpretation of a given sentence.
 
+## general principles
+
+- no recursion
+TODO
+
 ## types of words
+
+TODO
 
 ## basic sentence structure
 
