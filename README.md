@@ -20,7 +20,16 @@ If you follow this grammar, you will be well understood by most (if not all) tok
       [prepositions](https://github.com/kilipan/nasin-toki#prepositions),
       [preverbs](https://github.com/kilipan/nasin-toki#preverbs)
   - [sentence structure](https://github.com/kilipan/nasin-toki#sentence-structure)
+  - [questions](https://github.com/kilipan/nasin-toki#questions):
+    [`X ala X`](https://github.com/kilipan/nasin-toki#x-ala-x),
+    [`anu seme`](https://github.com/kilipan/nasin-toki#anu-seme),
+    [`seme`](https://github.com/kilipan/nasin-toki#seme)
   - [compounds](https://github.com/kilipan/nasin-toki#compounds)
+    - [multiple modifiers](https://github.com/kilipan/nasin-toki#multiple-modifiers)
+    - [the particle `pi`](https://github.com/kilipan/nasin-toki#the-particle-pi)
+  - [how to use prepositions](https://github.com/kilipan/nasin-toki#how-to-use-prepositions)
+  - [how to use preverbs](https://github.com/kilipan/nasin-toki#how-to-use-preverbs)
+- [in-depth](https://github.com/kilipan/nasin-toki#in-depth)
 
 
 # basics
@@ -111,7 +120,7 @@ Example: `soweli li moku e kili` ("An animal eats fruit.")
   - ... or the stimulus that `X` experiences through doing `Y`, e.g. `soweli li lukin e kili` ~ "The animal sees a fruit."
 
 
-## building questions
+## questions
 There are three different ways to build a question.
 
 ### `X ala X`
