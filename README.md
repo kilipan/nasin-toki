@@ -29,7 +29,7 @@ Since toki pona is highly **context-sensitive**, there is never only a single va
 
 ## general principles
 - no recursion
-TODO
+- conjunction by repeating the appropriate particle
 
 ## word types
 
@@ -91,3 +91,11 @@ A *basic* toki pona sentence looks like this:
   - ... or the stimulus that `X` experiences through doing `Y`, e.g. `soweli li lukin e kili` ~ "The animal sees a fruit."
 
 ## compound phrases
+
+#### en-phrase
+
+#### li-phrase
+
+#### pi-phrase
+
+#### prepositional phrase
