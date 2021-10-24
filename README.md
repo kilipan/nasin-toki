@@ -99,7 +99,7 @@ A basic toki pona sentence looks like this:
 
 `X li Y [e Z]`[^li-dropping]
 
-(more [complex sentence structures (TODO)](https://github.com/kilipan/nasin-toki#complex-sentence-structure) are of course possible)
+(more complex sentence structures are of course possible, if necessary (e.g. [here](https://github.com/kilipan/nasin-toki#combining-different-conjunctions)))
 
 [^li-dropping]: Whenever our main character, the subject `X` is exactly the word `mi` (and nothing else) or exactly the word `sina` (and nothing else), the particle `li` is dropped from the sentence.
   Examples:
