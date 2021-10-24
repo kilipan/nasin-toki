@@ -164,9 +164,12 @@ To specify what we are talking about, we can build *compounds*.
 A compound consists of a main content word, the **head**, and at least one additional content word, the **modifier(s)**.
 Since toki pona is *head-initial*, the first word in a compound is the head, all following ones are modifiers.
 
+The head is the main thing we are talking about, while the modifiers specify the head's (usually very broad) semantic field.
+We can always remove any modifiers from a given phrase without changing that it *could* refer to the same thing as before, but it becomes less specific by doing so.
+
 Example: In `tomo waso` ("bird-house"), the word `tomo` is the head while `waso` modifies it.
 We are talking first and foremost about a `tomo`.
-The modifier tells us that the `tomo` is in some way related to `waso`.
+The modifier tells us that the `tomo` is in some way related to the semantic field of `waso`.
 
 ### multiple modifiers
 If multiple modifiers are present they all apply to the head of the phrase.
