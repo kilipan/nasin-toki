@@ -20,15 +20,17 @@ If you follow this grammar, you will be well understood by most (if not all) tok
       [prepositions](https://github.com/kilipan/nasin-toki#prepositions),
       [preverbs](https://github.com/kilipan/nasin-toki#preverbs)
   - [sentence structure](https://github.com/kilipan/nasin-toki#sentence-structure)
-  - [questions](https://github.com/kilipan/nasin-toki#questions):
-    [`X ala X`](https://github.com/kilipan/nasin-toki#x-ala-x),
-    [`anu seme`](https://github.com/kilipan/nasin-toki#anu-seme),
-    [`seme`](https://github.com/kilipan/nasin-toki#seme)
   - [compounds](https://github.com/kilipan/nasin-toki#compounds)
     - [multiple modifiers](https://github.com/kilipan/nasin-toki#multiple-modifiers)
     - [the particle `pi`](https://github.com/kilipan/nasin-toki#the-particle-pi)
   - [how to use prepositions](https://github.com/kilipan/nasin-toki#how-to-use-prepositions)
   - [how to use preverbs](https://github.com/kilipan/nasin-toki#how-to-use-preverbs)
+  - [how to say "and"](https://github.com/kilipan/nasin-toki#how-to-say-"and")
+  - [questions](https://github.com/kilipan/nasin-toki#questions):
+    [`X ala X`](https://github.com/kilipan/nasin-toki#x-ala-x),
+    [`anu seme`](https://github.com/kilipan/nasin-toki#anu-seme),
+    [`seme`](https://github.com/kilipan/nasin-toki#seme)
+
 - [in-depth](https://github.com/kilipan/nasin-toki#in-depth)
 
 
@@ -122,46 +124,6 @@ Example: `soweli li moku e kili` ("An animal eats fruit.")
   - ... or the stimulus that `X` experiences through doing `Y`, e.g. `soweli li lukin e kili` ~ "The animal sees a fruit."
 
 
-## questions
-There are three different ways to build a question.
-
-### `X ala X`
-This construction is used for simple yes-or-no questions: `Y li X ala X`
-It asks the listener whether the sentence `Y li X` is true.  
-To answer an `X ala X` question, simply repeat the predicate for yes (`X`) or the predicate followed by `ala` for "no" (`X ala`).
-Of course it is always possible to answer in a full sentence instead.
-
-Example:  
-`soweli loje li moku ala moku e kili` ("Do foxes eat vegetables?")  
-`moku ala` ("No.")
-
-If the predicate is a [compound](https://github.com/kilipan/nasin-toki#compounds), you may just repeat the head, e.g. `jan li pana ala pana pi wawa mute e sike` ("Does the person yeet the ball?").
-
-### `anu seme`
-The second way to ask a yes-or-no question is `X li Y anu seme`.
-This is not much different from the first, but it suggests a less simple answer than just "yes" or "no" may be expected.
-It is answered the same way as the `X ala X` question.
-
-Example:  
-`lete li lon ma sina anu seme` ("Is it cold where you are?")  
-`lete. taso suno pini li seli a` ("Yes, but yesterday it was very warm!")
-
-### `seme`
-If we replace the thing that is asked for with `seme`, we can ask an open question.
-Using this construction, we ask the listener to fill the place of `seme` with the appropriate information.
-These types of question are best answered with a full sentence.
-
-Examples:
-`jan seme li toki` ("Who is speaking?")  
-`mi toki.` ("I am.")
-
-`ona li seme` ("What did they do?")  
-`ona li tawa tomo ona` ("They walked home.")
-
-`sina lukin e seme` ("What are you watching?")  
-`mi lukin e waso` ("I am watching birds.")
-
-
 ## compounds
 Since toki pona has a very minimalist lexicon, all the content words cover broad semantic fields.
 To specify what we are talking about, we can build *compounds*.  
@@ -248,15 +210,63 @@ We can also add multiple prepositional phrases to a sentence.
 #### combining different conjunctions
 When multiple predicates are present, it can be ambiguous which predicate(s) the object(s) and preposition(s) apply to.
 
-Example: `jan li pali li pakala e tomo e kasi lon ma kepeken luka`  
+Example: `jan li pali li pakala e tomo e ilo lon ma kepeken luka`  
 (Note how this ambiguity is also present in English:
-"The person makes and breaks a house and plants in the field by means of their hands.")
+"The person builds and breaks houses and tools in the field by means of their hands.")
 
-We can sometimes resolve the ambiguity by restructuring:
-`jan li pali e tomo lon ma li pakala e kasi kepeken luka`
+We can often resolve the ambiguity by restructuring, depending on what is really meant:
+`jan li pali e tomo lon ma li pakala e ilo kepeken luka` ("The person builds a house in the field and breaks tools using their hands.")
+`jan li pali e tomo e ilo kepeken luka li pakala e ona lon ma` ("The person builds houses and tools using their hands and breaks them in the field.")
+
+
+## questions
+There are three different ways to build a question.
+
+### `X ala X`
+This construction is used for simple yes-or-no questions: `Y li X ala X`
+It asks the listener whether the sentence `Y li X` is true.  
+To answer an `X ala X` question, simply repeat the predicate for yes (`X`) or the predicate followed by `ala` for "no" (`X ala`).
+Of course it is always possible to answer in a full sentence instead.
+
+Example:  
+`soweli loje li moku ala moku e kili` ("Do foxes eat vegetables?")  
+`moku ala` ("No.")
+
+If there is a [preverb](https://github.com/kilipan/nasin-toki#preverbs) before the predicate, apply `X ala X` to the preverb instead of the main-predicate,
+e.g. `kili li kama suli ala suli` ("Did the fruit grow big?").
+
+If the predicate is a [compound](https://github.com/kilipan/nasin-toki#compounds), you may just repeat the head,
+e.g. `jan li pana ala pana pi wawa mute e sike` ("Does the person yeet the ball?").
+
+### `anu seme`
+The second way to ask a yes-or-no question is `X li Y anu seme`.
+This is not much different from the first, but it suggests a less simple answer than just "yes" or "no" may be expected.
+It is answered the same way as the `X ala X` question.
+
+Example:  
+`lete li lon ma sina anu seme` ("Is it cold where you are?")  
+`lete. taso suno pini li seli a` ("Yes, but yesterday it was very warm!")
+
+### `seme`
+If we replace the thing that is asked for with `seme`, we can ask an open question.
+Using this construction, we ask the listener to fill the place of `seme` with the appropriate information.
+These types of question are best answered with a full sentence.
+
+Examples:
+`jan seme li toki` ("Who is speaking?")  
+`mi toki.` ("I am.")
+
+`ona li seme` ("What did they do?")  
+`ona li tawa tomo ona` ("They walked home.")
+
+`sina lukin e seme` ("What are you watching?")  
+`mi lukin e waso` ("I am watching birds.")
 
 
 # in-depth
+This section provides more advanced info on how to use and not to use specific words and constructions.
+
+TODO
 
 
 ## more info on particles
@@ -277,3 +287,48 @@ We can sometimes resolve the ambiguity by restructuring:
 
 
 ## a comparative analysis of prepositions
+This section provides a comparatove analysis of how prepositions work in toki pona.
+Since many people do not use 
+
+*idea*  
+`X li Y e Z` ≈ `X li pali e ni: Z li Y`
+
+*the prepositions*
+- `tawa` - to, towards, from the perspective of
+- `lon` - in, at, on
+- `sama` - like, similar to
+- `tan` - from, because of
+- `kepeken` - using, by means of
+
+*prepositional phrases*
+- `mi pana e ijo tawa ona` - i give them a thing
+- `mi awen lon tomo` - i stay in the house
+- `mi pali sama ona` - i work like them
+- `mi suli tan moku` - i am big because of food
+- `mi toki kepeken kalama` - i speak by means of sound
+
+*prepositional phrases without predicates*
+- `mi tawa tomo` - i, towards the house (i go to the house)
+- `mi lon telo` - i, in the water (i am in the water)
+- `mi sama ona` - i, like them (i am like them)
+- `mi tan ma Apese` - i, from Abc-land (i am from Abc-land)
+- `mi kepeken ilo` - i, using tools (i use tools)
+
+*transitive phrases with content-word versions of the prepositions*
+- `mi tawa e soweli` - i move the animal \[towards an unspecified location]
+- `mi lon e kala` - i exist the fish (i make the fish exist) \[in an unspecified location/time/way]
+- `mi sama e akesi` - i sameify the frog (i make the frog similar) \[to sth unspecified]
+- `mi tan e ona` - i make them be the result \[of sth unspecified][^prepanalysis]
+- `mi kepeken e ona` - i make them use \[sth unspecified][^prepanalysis]
+
+*transitive prep phrases with modified preps as heads*
+- `mi tawa supa e soweli` - i move the animal towards the table
+- `mi lon telo e kala` - i exist the fish (i make the fish exist) in the water
+- `mi sama jan e akesi` - i sameify the frog (i make the frog similar) to a person[^prepanalysis]
+- `mi tan utala e ona` - i make them be the result of conflict[^prepanalysis]
+- `mi kepeken ilo e ona` - i make them use a tool[^prepanalysis]
+
+
+[^prepanalysis]: These examples are not according to actual usage.
+  They are here for completeness' sake.
+  While they are not necessarily used like this, they serve as good reasons not to use the 'kepeken e' strategy to say "X uses Y".
