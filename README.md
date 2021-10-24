@@ -25,7 +25,7 @@ If you follow this grammar, you will be well understood by most (if not all) tok
     - [the particle `pi`](https://github.com/kilipan/nasin-toki#the-particle-pi)
   - [how to use prepositions](https://github.com/kilipan/nasin-toki#how-to-use-prepositions)
   - [how to use preverbs](https://github.com/kilipan/nasin-toki#how-to-use-preverbs)
-  - [how to say "and"](https://github.com/kilipan/nasin-toki#how-to-say-"and")
+  - [how to say "and"](https://github.com/kilipan/nasin-toki#how-to-say-and)
   - [questions](https://github.com/kilipan/nasin-toki#questions):
     [`X ala X`](https://github.com/kilipan/nasin-toki#x-ala-x),
     [`anu seme`](https://github.com/kilipan/nasin-toki#anu-seme),
@@ -287,8 +287,7 @@ TODO
 
 
 ## a comparative analysis of prepositions
-This section provides a comparatove analysis of how prepositions work in toki pona.
-Since many people do not use 
+This section provides a comparative analysis of how prepositions work in toki pona.
 
 *idea*  
 `X li Y e Z` ≈ `X li pali e ni: Z li Y`
