@@ -290,6 +290,7 @@ TODO
 
 ## a comparative analysis of prepositions
 This section provides a comparative analysis of how prepositions work in toki pona.
+Since it contains some unusual interpretations, alternative readings are given as well.
 
 *idea*  
 `X li Y e Z` ≈ `X li pali e ni: Z li Y`
@@ -302,32 +303,32 @@ This section provides a comparative analysis of how prepositions work in toki po
 - `kepeken` - using, by means of
 
 *prepositional phrases*
-- `mi pana e ijo tawa ona` - i give them a thing
-- `mi awen lon tomo` - i stay in the house
-- `mi pali sama ona` - i work like them
-- `mi suli tan moku` - i am big because of food
-- `mi toki kepeken kalama` - i speak by means of sound
+- `mi pana e ijo tawa ona` - "I give them a thing."
+- `mi awen lon tomo` - "I stay in the house."
+- `mi pali sama ona` - "I work like them."
+- `mi suli tan moku` - "I am big because of food."
+- `mi toki kepeken kalama` - "I speak by means of sound."
 
 *prepositional phrases without predicates*
-- `mi tawa tomo` - i, towards the house (i go to the house)
-- `mi lon telo` - i, in the water (i am in the water)
-- `mi sama ona` - i, like them (i am like them)
-- `mi tan ma Apese` - i, from Abc-land (i am from Abc-land)
-- `mi kepeken ilo` - i, using tools (i use tools)
+- `mi tawa tomo` - "I, towards the house." ("I go to the house.")
+- `mi lon telo` - "I, in the water." ("I am in the water.")
+- `mi sama ona` - "I, like them." ("I am like them.")
+- `mi tan ma Apese` - "I, from Abc-land." ("I am from Abc-land.")
+- `mi kepeken ilo` - "I, using tools." ("I use tools.")
 
 *transitive phrases with content-word versions of the prepositions*
-- `mi tawa e soweli` - i move the animal \[towards an unspecified location]
-- `mi lon e kala` - i exist the fish (i make the fish exist) \[in an unspecified location/time/way]
-- `mi sama e akesi` - i sameify the frog (i make the frog similar) \[to sth unspecified]
-- `mi tan e ona` - i make them be the result \[of sth unspecified][^prepanalysis]
-- `mi kepeken e ona` - i make them use \[sth unspecified][^prepanalysis]
+- `mi tawa e soweli` - "I move the animal \[towards an unspecified location]."
+- `mi lon e kala` - "I exist the fish (i make the fish exist) \[in an unspecified location/time/way]."
+- `mi sama e akesi` - "I sameify the frog (i make the frog similar) \[to sth unspecified]."
+- `mi tan e ona` - "I make them be the result \[of something unspecified]."[^prepanalysis] **or** "I make them be the reason \[of something unspecified]."
+- `mi kepeken e ona` - "I make them use \[something unspecified]."[^prepanalysis] **or** "I make them be used \[by something unspecified]."
 
 *transitive prep phrases with modified preps as heads*
-- `mi tawa supa e soweli` - i move the animal towards the table
-- `mi lon telo e kala` - i exist the fish (i make the fish exist) in the water
-- `mi sama jan e akesi` - i sameify the frog (i make the frog similar) to a person[^prepanalysis]
-- `mi tan utala e ona` - i make them be the result of conflict[^prepanalysis]
-- `mi kepeken ilo e ona` - i make them use a tool[^prepanalysis]
+- `mi tawa supa e soweli` - "I move the animal towards the table **or** "I surface-move the animal."
+- `mi lon telo e kala` - "I exist the fish (i make the fish exist) in the water."
+- `mi sama jan e akesi` - "I sameify the frog (i make the frog similar) to a person."
+- `mi tan utala e ona` - "I make them be the result of conflict."[^prepanalysis] **or**
+- `mi kepeken ilo e ona` - "I make them use a tool."[^prepanalysis]
 
 
 [^prepanalysis]: These examples are not according to actual usage.
