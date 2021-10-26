@@ -146,6 +146,9 @@ Examples:
 `soweli suli pimeja` ("dark big animal")
 `jan lawa pona` ("good leader")
 
+### objects in head-modifier phrases
+TODO
+
 ### the particle `pi`
 To modify the head with another compounded expression instead of a single content word, we precede that expression with `pi`.
 
