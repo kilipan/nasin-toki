@@ -232,11 +232,13 @@ Example:
 `soweli loje li moku ala moku e kili` ("Do foxes eat vegetables?")  
 `moku ala` ("No.")
 
-If there is a [preverb](https://github.com/kilipan/nasin-toki#preverbs) before the predicate, apply `X ala X` to the preverb instead of the main-predicate,
-e.g. `kili li kama suli ala suli` ("Did the fruit grow big?").
-
-If the predicate is a [compound](https://github.com/kilipan/nasin-toki#compounds), you may just repeat the head,
-e.g. `jan li pana ala pana pi wawa mute e sike` ("Does the person yeet the ball?").
+Special cases:
+- If there is a [preverb](https://github.com/kilipan/nasin-toki#preverbs) before the predicate, apply `X ala X` to the preverb instead of the main-predicate,
+  e.g. `kili li kama ala kama suli` ("Did the fruit grow big?").
+- If the predicate is a [compound](https://github.com/kilipan/nasin-toki#compounds), you may just repeat the head,
+  e.g. `jan li pana ala pana pi wawa mute e sike` ("Does the person yeet the ball?").
+- To stress what you are asking for, you can also `X ala X` other parts of the sentence,
+  e.g. `soweli ala soweli li nasin e sina` ("Did an *animal* lead you?")
 
 ### `anu seme`
 The second way to ask a yes-or-no question is `X li Y anu seme`.
