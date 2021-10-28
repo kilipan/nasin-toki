@@ -7,7 +7,7 @@ That said, nothing about this `nasin toki` is unusual.
 If you follow this grammar, you will be well understood by most (if not all) toki pona speakers.
 
 
-## lipu toki / Table of Contents
+## table of contents
 
 - [basics](https://github.com/kilipan/nasin-toki#basics)
   - [how to read](https://github.com/kilipan/nasin-toki#how-to-read-this-grammar)
