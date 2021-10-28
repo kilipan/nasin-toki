@@ -20,7 +20,7 @@ If you follow this grammar, you will be well understood by most (if not all) tok
       [prepositions](https://github.com/kilipan/nasin-toki#prepositions),
       [preverbs](https://github.com/kilipan/nasin-toki#preverbs)
   - [sentence structure](https://github.com/kilipan/nasin-toki#sentence-structure)
-  - [compounds](https://github.com/kilipan/nasin-toki#compounds)
+  - [phrases](https://github.com/kilipan/nasin-toki#phrases)
     - [multiple modifiers](https://github.com/kilipan/nasin-toki#multiple-modifiers)
     - [the particle `pi`](https://github.com/kilipan/nasin-toki#the-particle-pi)
   - [how to use prepositions](https://github.com/kilipan/nasin-toki#how-to-use-prepositions)
@@ -38,12 +38,12 @@ If you follow this grammar, you will be well understood by most (if not all) tok
 
 ## how to read this grammar
 - Throughout this document, I will use
-  - single capital letters (e.g. `X`) to represent any valid toki pona [*content word*](https://github.com/kilipan/nasin-toki#content-words) or [*compound*](https://github.com/kilipan/nasin-toki#compounds)
+  - single capital letters (e.g. `A`) to represent any valid toki pona [*content word*](https://github.com/kilipan/nasin-toki#content-words) or [*phrase*](https://github.com/kilipan/nasin-toki#phrases)
   - `<prep>` to refer to any of the [*prepositions*](https://github.com/kilipan/nasin-toki#prepositions)
   - `<preverb>` to refer to any of the [*preverbs*](https://github.com/kilipan/nasin-toki#preverbs)
-- Code-blocks of text contain valid toki pona sentences (when replacing the above-mentioned abbreviations with real words).
+- Code-blocks contain valid toki pona (when replacing the above-mentioned abbreviations with real words).
 Brackets mark the bracketed part as optional, e.g. `toki [ni] li pona`
-- All translations are mere suggestions.
+- All translations are **only suggestions**.
 Since toki pona is highly **context-sensitive**, there is never only a single valid interpretation of a given sentence.
 
 
@@ -73,18 +73,27 @@ Some people might analyze certain things differently.
 Importantly, when these word types are mentioned in this document, the corresponding words listed here are what is referred to.
 
 ### particles
-`en`, `li`, `e`, `la`, `pi`, `o`, `a`
+*Particles* are usually small words that only or primarily have grammatical functions.
+For usage details, see the respective sections on the particles in the [in-depth part](https://github.com/kilipan/nasin-toki#in-depth).
 
-*Particles* are words that have no semantic meaning on their own.
-They are purely grammatical words that exist to mark parts of speech, context, modifier-order, and emotional emphasis.
+#### pure particles
+`en`, `li`, `e`, `la`, `pi`, `o`
 
-#### pseudo-particles
-`ala`, `taso`, `anu`
+*Pure particles* are words that have no semantic meaning on their own.
+They are purely grammatical words that exist to mark parts of speech, context, and modifier-order.
 
-The *pseudo-particles* are words that have particle-like properties, but also aren't used exclusively to mark parts of speech.
-The word `ala` is used for negations.
-The other two are mostly used as conjunctions (`taso` meaning "but", and `anu` meaning "or").
-Sometimes, they also act as content words with semantic fields around the concepts of "nothingness", "alone", and "choice", respectively.
+#### emoticle
+`a`
+
+The word `a` does not fit well into the other categories and thus gets its own place here as the *emoticle* (a portmanteu of emotion and particle).
+It is used to add emotional emphasis to words, phrases, or whole sentences.
+
+### pseudo-particles
+`nanpa`, `kin`, `ala`, `taso`, `anu`
+
+The *pseudo-particles* are words that have particle-like properties, but can sometimes also be used as content-words.
+They are therefore listed as their own category.
+As with the particles, check their respective sections in the [in-depth part](https://github.com/kilipan/nasin-toki#in-depth) for more details.
 
 ### content words
 Literally every other word in toki pona is a *content word* with semantic meaning attached.
@@ -140,11 +149,10 @@ Example: `soweli li moku e kili` ("An animal eats fruit.")
   - ... or the stimulus that `X` experiences through doing `Y`, e.g. `soweli li lukin e kili` ~ "The animal sees a fruit."
 
 
-## compounds
+## phrases
 Since toki pona has a very minimalist lexicon, all the content words cover broad semantic fields.
-To specify what we are talking about, we can build *compounds*.  
-A compound consists of a main content word, the **head**, and at least one additional content word, the **modifier(s)**.
-Since toki pona is *head-initial*, the first word in a compound is the head, all following ones are modifiers.
+To specify what we are talking about, we can build *phrases*.  
+A phrase consists of a main content word, the **head**, and at least one additional content word, the **modifier(s)**.
 
 The head is the main thing we are talking about, while the modifiers further specify the head's (usually very broad) semantic field.
 We can always remove any modifiers from a given phrase without changing that it *could* refer to the same thing as before, but it becomes less specific by doing so.
@@ -166,7 +174,7 @@ Examples:
 TODO
 
 ### the particle `pi`
-To modify the head with another compounded expression instead of a single content word, we precede that expression with `pi`.
+To modify the head of one phrase with another phrase instead of a single content word, we precede that second phrase with `pi`.
 
 Example:  
 `poki pi telo wawa` ("strong-liquid container", e.g. a cup of coffee), but  
@@ -304,8 +312,23 @@ TODO
 
 ### the particle `o`
 
-### the particle `a`
+### the emoticle `a`
+The word `a` can be appended to any word, phrase, or sentence to add emotional emphasis.
+It can also be used on its own to express utterances like "ah!", "oh!", "wow!", etc.**
 
+Examples:  
+`pona a` ("So good!")  
+`ike a` ("Oh dang!")  
+`o lukin e pali mi a` ("Look at my work!" \[e.g. implying pride or sadness, depending on context])
+`ni li musi a tawa mi` ("This is so fun!")
+
+### the pseudo-particle `nanpa`
+
+### the pseudo-particle `ala`
+
+### the pseudo-particle `taso`
+
+### the pseudo-particle `anu`
 
 ## a comparative analysis of prepositions
 This section provides a comparative analysis of how prepositions work in toki pona.
