@@ -48,9 +48,23 @@ Since toki pona is highly **context-sensitive**, there is never only a single va
 
 
 ## general principles
-- implied politeness
-- no recursion
-- conjunction by repeating the appropriate particle
+When using toki pona, it can help to keep in mind these general principles.
+
+### implied politeness
+There is no need for formalities like "please" and "thank you" in toki pona.
+Generally, politeness is assumed per default.
+That doesn't mean you can't tell someone what you are thankful for, though.
+Instead of using empty formulaic ways to thank people, tell them why and how you are thankful, or that they are good!
+
+### no sentence internal recursion
+In many natural languages we can embed whole sentences into other sentences.
+For example, we do this in English when building relative clauses.
+In the sentence "I see people who walk to the hous.", the relative clause is "who walk to the house", which is basically a complete sentence on its own.
+In toki pona, these things are split up into multiple sentences:
+`mi lukin e jan ni: ona li tawa tomo`
+
+### no single word for "and"
+To say "and", instead repeat the appropriate particle (cf. the [section on how to say "and"](https://github.com/kilipan/nasin-toki#how-to-say-and)).
 
 
 ## word types
@@ -65,10 +79,12 @@ Importantly, when these word types are mentioned in this document, the correspon
 They are purely grammatical words that exist to mark parts of speech, context, modifier-order, and emotional emphasis.
 
 #### pseudo-particles
-`taso`, `anu`
+`ala`, `taso`, `anu`
 
-The *pseudo-particles* are mostly used as conjunctions (meaning "but" and "or", respectively).
-Rare usage: Sometimes, they also act as content words with semantic fields around the concepts of "alone" and "choice", respectively.
+The *pseudo-particles* are words that have particle-like properties, but also aren't used exclusively to mark parts of speech.
+The word `ala` is used for negations.
+The other two are mostly used as conjunctions (`taso` meaning "but", and `anu` meaning "or").
+Sometimes, they also act as content words with semantic fields around the concepts of "nothingness", "alone", and "choice", respectively.
 
 ### content words
 Literally every other word in toki pona is a *content word* with semantic meaning attached.
