@@ -75,7 +75,7 @@ Instead of using empty formulaic ways to thank people, tell them why and how you
 ### no sentence internal recursion
 In many natural languages we can embed whole sentences into other sentences.
 For example, we do this in English when building relative clauses.
-In the sentence "I see people who walk to the hous.", the relative clause is "who walk to the house", which is basically a complete sentence on its own.
+In the sentence "I see people who walk to the house.", the relative clause is "who walk to the house", which is basically a complete sentence on its own.
 In toki pona, these things are split up into multiple sentences:
 `mi lukin e jan ni: ona li tawa tomo`
 
