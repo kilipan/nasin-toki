@@ -391,8 +391,22 @@ Examples:
 `jan Ali li sona e toki Alapi e toki Lasina e toki Inli e toki Putonwa` - "Ali knows Arabic, Latin, English, and Mandarin."
 
 ### the particle `la`
+The particle `la` marks contextual phrases and sentences.
+Like all particles, it does not have any semantic meaning.
+We put the context first, then `la`, and then the sentence that should be interpreted in the given context:  
+`X la Y li Z` - "In the context of X, Y is/does Z."
 
-`supa tomo li jaki la jan li telo e ona` - "Because the floor is dirty, people wash it."
+`la` can be used for adding many kinds of information, e.g. tense, manner, place, evidentiality, etc.
+We can also use it for if-then statements, in case a complete sentence precedes the `la`.
+What's more, we can put prepositional phrases in front of it
+and it will mean the same as when appending the same phrase (albeit with different focus):
+
+Examples:  
+`tenpo lon la mi sitelen e lipu sona` - "Right now, I write a knowlegde-document."  
+`mi la ni li pona` - "As for me, this is nice."  
+`jan Pala la suno li wawa a` - "Barbara told me that the sun is intense!"
+`supa tomo li jaki la jan li telo e ona` - "If the floor is dirty, then people wash it."  
+`kepeken ilo telo wawa la mi weka e jaki tan supa` - "I powerclean the front-porch."
 
 ### the particle `pi`
 The particle `pi` marks the head of a phrase that acts as a modifier for another head.
@@ -408,12 +422,29 @@ Examples:
 `ilo pi tawa lili mute` - "tool related to many small movements" (e.g. "electric toothbrush")  
 `ilo tawa pi lili mute` - "very small movement-tool"
 
+While it is technically possible to use multiple pi-phrases inside of each other,
+the general principle of avoiding recursion suggests that it is better to just use sentences to describe the compound in more detail.
+If for some reason we would be forced to use multiple `pi` inside one phrase,
+we need to be aware that there is ambiguity in whether they all apply to the overall head or to the smallest phrase they follow.
 
 ### the particle `o`
-The particle `o` is another predicate marker.
+The particle `o` is a second predicate marker, as well as a vocative marker.
 Like all particles, it does not have any semantic meaning.
 It is used in place of `li` when issuing commands, or describing wishes or desires.
-In direct commands to the listener, the subject `sina` can be omitted.
+In direct commands to the listener, the subject `sina` can be omitted.  
+`[sina] o tawa pona` - "Drive carefully!"
+
+For wishes and desires, replace `li` by `o`.  
+`ona o lape` - "They should sleep."
+
+Other than `li`, `o` cannot be omitted with `mi` or `sina`.  
+`mi o toki pona` - "I should speak clearly."
+
+For vocative, `o` can be appended to a phrase to address the thing described by said phrase.  
+`jan Su o` - "Hey Su!"
+
+Combining vocative and imperative can also be done easily:  
+`jan Su o lape pona` - "Hey Su, sleep well!"
 
 ### the emoticle `a`
 The word `a` can be appended to any word, phrase, or sentence to add emotional emphasis.
