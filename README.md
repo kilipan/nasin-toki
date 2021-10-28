@@ -13,8 +13,10 @@ If you follow this grammar, you will be well understood by most (if not all) tok
   - [how to read](https://github.com/kilipan/nasin-toki#how-to-read-this-grammar)
   - [general principles](https://github.com/kilipan/nasin-toki#general-principles)
   - [word types](https://github.com/kilipan/nasin-toki#word-types)
-    - [particles](https://github.com/kilipan/nasin-toki#particles),
-      [pseudo-particles](https://github.com/kilipan/nasin-toki#pseudo-particles)
+    - [particles](https://github.com/kilipan/nasin-toki#particles)
+      [pure particles](https://github.com/kilipan/nasin-toki#pure-particles)
+      [emoticle](https://github.com/kilipan/nasin-toki#emoticle)
+    - [pseudo-particles](https://github.com/kilipan/nasin-toki#pseudo-particles)
     - [content words](https://github.com/kilipan/nasin-toki#content-words):
       [pronouns](https://github.com/kilipan/nasin-toki#pronouns),
       [prepositions](https://github.com/kilipan/nasin-toki#prepositions),
@@ -31,7 +33,23 @@ If you follow this grammar, you will be well understood by most (if not all) tok
     [`anu seme`](https://github.com/kilipan/nasin-toki#anu-seme),
     [`seme`](https://github.com/kilipan/nasin-toki#seme)
 
+- [advanced](https://github.com/kilipan/nasin-toki#advanced)
+
 - [in-depth](https://github.com/kilipan/nasin-toki#in-depth)
+    - [more info on particles](https://github.com/kilipan/nasin-toki#more-info-on-particles)
+      - [the particle `en`](https://github.com/kilipan/nasin-toki#the-particle-en)
+      - [the particle `li`](https://github.com/kilipan/nasin-toki#the-particle-li)
+      - [the particle `e`](https://github.com/kilipan/nasin-toki#the-particle-e)
+      - [the particle `la`](https://github.com/kilipan/nasin-toki#the-particle-la)
+      - [the particle `pi`](https://github.com/kilipan/nasin-toki#the-particle-pi)
+      - [the particle `o`](https://github.com/kilipan/nasin-toki#the-particle-o)
+      - [the emoticle `a`](https://github.com/kilipan/nasin-toki#the-emoticle-a)
+    - [more info on pseudo-particles](https://github.com/kilipan/nasin-toki#more-info-on-particles)
+      - [the pseudo-particle `nanpa`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-nanpa)
+      - [the pseudo-particle `ala`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-ala)
+      - [the pseudo-particle `taso`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-taso)
+      - [the pseudo-particle `anu`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-anu)
+    - [a comparative analysis of prepositions](https://github.com/kilipan/nasin-toki#a-comparative-analysis-of-prepositions)
 
 
 # basics
@@ -128,10 +146,11 @@ A basic toki pona sentence looks like this:
 
 [^li-dropping]: Whenever our main character, the subject `X` is exactly the word `mi` (and nothing else) or exactly the word `sina` (and nothing else), the particle `li` is dropped from the sentence.
   Examples:
-  *only* `mi`: `mi lukin e ona` ("I see them.");
-  *not only* `mi`: `tomo mi li lili` ("My house is small.")
+  *only* `mi`: `mi lukin e ona` - "I see them.";
+  *not only* `mi`: `tomo mi li lili` - "My house is small."
   
-Example: `soweli li moku e kili` ("An animal eats fruit.")
+Example:  
+`soweli li moku e kili` - "An animal eats fruit."
 
 #### the subject
 - `X` is the main character of our sentence, the **subject**
@@ -142,8 +161,7 @@ Example: `soweli li moku e kili` ("An animal eats fruit.")
   - It can be an action; like working, playing, talking
   - ... a description; like blue, good, tall
   - ... or a thing; like house, animal, food
-#### the direct object
-- `Z` is the thing that the action is done to, the **direct object**
+#### the direct object - `Z` is the thing that the action is done to, the **direct object**
   - it can also be basically anything
   - it is either the reciever of the action `Y` performed by `X`, e.g `soweli li pali e tomo` ~ "The animal builds a nest."
   - ... or the stimulus that `X` experiences through doing `Y`, e.g. `soweli li lukin e kili` ~ "The animal sees a fruit."
@@ -157,7 +175,8 @@ A phrase consists of a main content word, the **head**, and at least one additio
 The head is the main thing we are talking about, while the modifiers further specify the head's (usually very broad) semantic field.
 We can always remove any modifiers from a given phrase without changing that it *could* refer to the same thing as before, but it becomes less specific by doing so.
 
-Example: In `tomo waso` ("bird-house"), the word `tomo` is the head while `waso` modifies it.
+Example:  
+In `tomo waso` ("bird-house"), the word `tomo` is the head while `waso` modifies it.
 We are talking first and foremost about a `tomo`.
 The modifier tells us that the `tomo` is in some way related to the semantic field of `waso`.
 
@@ -167,15 +186,15 @@ We can simply append modifiers like `X Y Z` is an `X` that is related to `Y` and
 The order in which modifiers is not strictly important, but it can be used to highlight the earlier modifiers.
 
 Examples:  
-`soweli suli pimeja` ("dark big animal")
-`jan lawa pona` ("good leader")
+`soweli suli pimeja` - "dark big animal"
+`jan lawa pona` - "good leader"
 
 ### the particle `pi`
 To modify the head of one phrase with another phrase instead of a single content word, we precede that second phrase with `pi`.
 
 Example:  
-`poki pi telo wawa` ("strong-liquid container", e.g. a cup of coffee), but  
-`poki telo wawa` ("strong liquid-container", e.g. a diamond bottle)
+`poki pi telo wawa` - "strong-liquid container", e.g. a cup of coffee, but  
+`poki telo wawa` - "strong liquid-container", e.g. a diamond bottle
 
 ### no objects in phrases
 Generally, objects cannot be part of phrases.
@@ -193,8 +212,8 @@ They are either appended to the predicate they modify or come directly after `li
 - `X li <prep> Y`
 
 Example:  
-`kasi li suli tan wawa suno` ("The plants are big because of the sun's power.")  
-`ona li kepeken ilo` ("They use tools."; literally: "They, using tools."; Note that while this kind of construction is not valid in English, it is so in other languages such as Russian and toki pona.)
+`kasi li suli tan wawa suno` - "The plants are big because of the sun's power."  
+`ona li kepeken ilo` - "They use tools."; literally: "They, using tools."; Note that while this kind of construction is not valid in English, it is so in other languages such as Russian and toki pona.
 
 
 ## how to use preverbs
@@ -241,9 +260,10 @@ We can also add multiple prepositional phrases to a sentence.
 #### combining different conjunctions
 When multiple predicates are present, it can be ambiguous which predicate(s) the object(s) and preposition(s) apply to.
 
-Example: `jan li pali li pakala e tomo e ilo lon ma kepeken luka`  
-(Note how this ambiguity is also present in English:
-"The person builds and breaks houses and tools in the field by means of their hands.")
+Example:  
+`jan li pali li pakala e tomo e ilo lon ma kepeken luka`  
+Note how this ambiguity is also present in English:
+"The person builds and breaks houses and tools in the field by means of their hands."
 
 We can often resolve the ambiguity by restructuring, depending on what is really meant:
 `jan li pali e tomo lon ma li pakala e ilo kepeken luka` ("The person builds a house in the field and breaks tools using their hands.")
@@ -260,8 +280,8 @@ To answer an `X ala X` question, simply repeat the predicate for yes (`X`) or th
 Of course it is always possible to answer in a full sentence instead.
 
 Example:  
-`soweli loje li moku ala moku e kili` ("Do foxes eat vegetables?")  
-`moku ala` ("No.")
+`soweli loje li moku ala moku e kili` - "Do foxes eat vegetables?"  
+`moku ala` - "No."
 
 Special cases:
 - If there is a [preverb](https://github.com/kilipan/nasin-toki#preverbs) before the predicate, apply `X ala X` to the preverb instead of the main-predicate,
@@ -277,8 +297,8 @@ This is not much different from the first, but it suggests a less simple answer 
 It is answered the same way as the `X ala X` question.
 
 Example:  
-`lete li lon ma sina anu seme` ("Is it cold where you are?")  
-`lete. taso suno pini li seli a` ("Yes, but yesterday it was very warm!")
+`lete li lon ma sina anu seme` - "Is it cold where you are?"  
+`lete. taso suno pini li seli a` - "Yes, but yesterday it was very warm!"
 
 ### `seme`
 If we replace the thing that is asked for with `seme`, we can ask an open question.
@@ -286,8 +306,8 @@ Using this construction, we ask the listener to fill the place of `seme` with th
 These types of question are best answered with a full sentence.
 
 Examples:
-`jan seme li toki` ("Who is speaking?")  
-`mi toki.` ("I am.")
+`jan seme li toki` - "Who is speaking?"  
+`mi toki.` - "I am."
 
 `ona li seme` ("What did they do?")  
 `ona li tawa tomo ona` ("They walked home.")
@@ -296,35 +316,116 @@ Examples:
 `mi lukin e waso` ("I am watching birds.")
 
 
-# in-depth
-This section provides more advanced info on how to use and not to use specific words and constructions.
+
+# advanced
+This section provides info on some advanced grammar.
 
 TODO
 
+## stringing together ideas
+
+### context phrases
+
+### conditionals
+
+### demonstrate with `ni`
+
+
+# in-depth
+This section provides more detailed info on how to use and not to use specific words and constructions.
 
 ## more info on particles
 
 ### the particle `en`
+The particle `en` is a subject marker that is always omitted for the first subject.
+Like all particles, it does not have any semantic meaning.
+It is not a general conjunction (cf. [how to say "and"](https://github.com/kilipan/nasin-toki#how-to-say-and)),
+but often mistaken for one by new learners.
+
+Examples:  
+`jan en soweli li sama mute` - "People and animals are very similar."  
+`sina en mi li toki` - "You and I are talking."  
+`tenpo mute la kon en telo li wawa` - "Wind and rain are often powerful."  
+`jan An en jan Pita en ja Sen en jan Ton li lon` - "Ann, Peter, Sam, and Tom are here."
 
 ### the particle `li`
+The particle `li` is a predicate marker.
+Like all particles, it does not have any semantic meaning.
+It is only omitted if the subject is *exactly* and *only* "mi", or *exactly* and *only* "sina".
+Thus, we say `mi pali` since the subject is `mi`,
+but neither in `pali mi li pona` (subject: `pali mi`) nor in `mi taso li lon tomo` (subject: `mi taso`) can `li` be omitted.
+
+If we want to add more than one predicate to a sentence that start with `mi` or `sina`, we can still do that by using `li`.
+
+Often, we can tell from a missing `li` that an utterance is not a complete sentence.
+This is of course only true if the subject is not `mi` or `sina` and if `li` is not replaced by `o` (see below).
+
+Examples:  
+`soweli li suwi` - "The animal is cute."  
+`mi kama li lukin li anpa` - "I cam, saw, and conquered."
+`ona li pali mute li lape lili` - "They work a lot and sleep a bit."  
 
 ### the particle `e`
+The particle `e` is the direct-object marker.
+Like all particles, it does not have any semantic meaning.
+The direct object in sentences is either the *patient* of an action or the *stimulus* of an experience.
+
+The *patient* of an action is the thing that the subject changes by performing the action that is described by the predicate.  
+Example: `soweli li pakala e kasi` - "The animal breaks off the plant."
+
+The *stimulus* is something the subject percieves, feels, or thinks.  
+Example: `mi lukin e mun` - "I watch the stars."
+
+We do not use `e` to mark indirect (prepositional) objects.
+They are neither patient nor stimulus.
+They are instead marked by prepositions.
+Example: `mi pali lon tomo` - "I work in the room."  
+Note the difference: `mi pali e tomo` - "I build a room."
+
+We also don't use `e` when the prepositional phrase follow `li` directly.
+Example: `ona li tawa tomo` - "They go to the house."  
+Note the difference: `ona li tawa e tomo` - "They [physically] move the house."
+
+Examples:  
+`waso li mama e waso lili` - "The bird cares for the chicks."
+`jan Ali li sona e toki Alapi e toki Lasina e toki Inli e toki Putonwa` - "Ali knows Arabic, Latin, English, and Mandarin."
 
 ### the particle `la`
 
+`supa tomo li jaki la jan li telo e ona` - "Because the floor is dirty, people wash it."
+
 ### the particle `pi`
+The particle `pi` marks the head of a phrase that acts as a modifier for another head.
+It is never used for single-word modifiers.
+Like all particles, it does not have any semantic meaning.
+
+By default, modifiers are applied from left to right to the head.
+If a `pi` is added, everything that follows pi becomes its own phrase, that modifes the head preceding `pi` as one.  
+Examples:  
+`jan lawa mute` - "many head-people" (e.g. "many leaders")  
+`jan pi lawa mute` - "many-headed person"  
+`ilo tawa lili mute` - "many small movement-tools" (e.g. "many skaetboards")  
+`ilo pi tawa lili mute` - "tool related to many small movements" (e.g. "electric toothbrush")  
+`ilo tawa pi lili mute` - "very small movement-tool"
+
 
 ### the particle `o`
+The particle `o` is another predicate marker.
+Like all particles, it does not have any semantic meaning.
+It is used in place of `li` when issuing commands, or describing wishes or desires.
+In direct commands to the listener, the subject `sina` can be omitted.
 
 ### the emoticle `a`
 The word `a` can be appended to any word, phrase, or sentence to add emotional emphasis.
 It can also be used on its own to express utterances like "ah!", "oh!", "wow!", etc.**
 
 Examples:  
-`pona a` ("So good!")  
-`ike a` ("Oh dang!")  
-`o lukin e pali mi a` ("Look at my work!" \[e.g. implying pride or sadness, depending on context])
-`ni li musi a tawa mi` ("This is so fun!")
+`pona a` - "So good!"  
+`ike a` - "Oh dang!"  
+`o lukin e pali mi a` - "Look at my work!" \[e.g. implying pride or sadness, depending on context]
+`ni li musi a tawa mi` - "This is so fun!"
+
+## more info on pseudo-particles
 
 ### the pseudo-particle `nanpa`
 
