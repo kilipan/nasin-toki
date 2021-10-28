@@ -33,8 +33,6 @@ If you follow this grammar, you will be well understood by most (if not all) tok
     [`anu seme`](https://github.com/kilipan/nasin-toki#anu-seme),
     [`seme`](https://github.com/kilipan/nasin-toki#seme)
 
-- [advanced](https://github.com/kilipan/nasin-toki#advanced)
-
 - [in-depth](https://github.com/kilipan/nasin-toki#in-depth)
     - [more info on particles](https://github.com/kilipan/nasin-toki#more-info-on-particles)
       - [the particle `en`](https://github.com/kilipan/nasin-toki#the-particle-en)
@@ -315,21 +313,14 @@ Examples:
 `sina lukin e seme` ("What are you watching?")  
 `mi lukin e waso` ("I am watching birds.")
 
+### relative clauses
+Building relative clauses in toki pona requires splitting sentences into two.
+We can do so by using the word `ni` to mark the word we want to describe further,
+and then postponing that further description until the end of the current sentence.
 
-
-# advanced
-This section provides info on some advanced grammar.
-
-TODO
-
-## stringing together ideas
-
-### context phrases
-
-### conditionals
-
-### demonstrate with `ni`
-
+Examples:  
+`jan ni li pona tawa mi: ona li mama e kasi` - "People who care for plants are good to me."  
+`soweli li lukin e waso ni: ona li tawa lon ma kasi` - "The animal watches birds that fly through the forest."
 
 # in-depth
 This section provides more detailed info on how to use and not to use specific words and constructions.
