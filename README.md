@@ -21,6 +21,7 @@ If you follow this grammar, you will be well understood by most (if not all) tok
       [pronouns](https://github.com/kilipan/nasin-toki#pronouns),
       [prepositions](https://github.com/kilipan/nasin-toki#prepositions),
       [preverbs](https://github.com/kilipan/nasin-toki#preverbs)
+      [question word](https://github.com/kilipan/nasin-toki#question-word)
   - [sentence structure](https://github.com/kilipan/nasin-toki#sentence-structure)
   - [phrases](https://github.com/kilipan/nasin-toki#phrases)
     - [multiple modifiers](https://github.com/kilipan/nasin-toki#multiple-modifiers)
@@ -134,6 +135,13 @@ They indicate information about where, whither, whence, how, or whereby the pred
 
 The *preverbs* are special words that can change the meaning of the predicate in ways normal modifiers cannot.
 Unlike all other modification in toki pona, they occur *before* the predicate they are applied to.
+
+#### question word
+`seme`
+
+The *question word* `seme` behaves like a content word from a grammatical point of view.
+Importantly, that means that unlike in various natural languages, it cannot be used as a relative pronoun.
+
 
 ## sentence structure
 A basic toki pona sentence looks like this:
