@@ -313,7 +313,8 @@ Examples:
 `sina lukin e seme` ("What are you watching?")  
 `mi lukin e waso` ("I am watching birds.")
 
-### relative clauses
+
+## relative clauses
 Building relative clauses in toki pona requires splitting sentences into two.
 We can do so by using the word `ni` to mark the word we want to describe further,
 and then postponing that further description until the end of the current sentence.
@@ -321,6 +322,26 @@ and then postponing that further description until the end of the current senten
 Examples:  
 `jan ni li pona tawa mi: ona li mama e kasi` - "People who care for plants are good to me."  
 `soweli li lukin e waso ni: ona li tawa lon ma kasi` - "The animal watches birds that fly through the forest."
+
+
+## ordinals
+In toki pona, numbers higher than a few are intentionally *very* hard to express.
+For ordinal numbers, just attach the pseudo-particle `nanpa` and then a number.
+Using `nanpa` as an ordinal marker, it has a built-in `pi`, so you don't need to add that.
+
+Examples:
+`sina jan nanpa wan lon tomo ni` - "You are the first person in this building."
+`ilo nanpa wan li pona. ilo nanpa tu li pona ala` - "The first tool is good. The second tool isn't."
+
+## comparisons
+For comparatives, there are multiple possible constructions.
+It is easiest to learn by example:  
+`jan Ipe li suli. jan Sunsi li lili` - "Sunsi is smaller than Ipe."  
+`tomo mi la tomo sina li loje mute` - "Your house is more red than mine."
+
+Superlatives can be expressed with the ordinal `nanpa wan` ("first"):  
+`pona la toki ni li nanpa wan` - "When it comes to goodness, this language is the best."
+
 
 # in-depth
 This section provides more detailed info on how to use and not to use specific words and constructions.
