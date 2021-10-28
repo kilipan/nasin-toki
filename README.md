@@ -2,7 +2,7 @@
 *by jan Juli (kili pan Juli / cile pa n-Ile)*
 
 In this document I aim to provide a comprehensive grammar of toki pona.
-Since toki pona is a very personal language, this will reflect my own opinions and style decisions.
+Since toki pona is a very personal language, this document reflects my own **opinions** and **style decisions**.
 That said, nothing about this `nasin toki` is unusual.
 If you follow this grammar, you will be well understood by most (if not all) toki pona speakers.
 
@@ -38,7 +38,7 @@ If you follow this grammar, you will be well understood by most (if not all) tok
 
 ## how to read this grammar
 - Throughout this document, I will use
-  - single capital letters (e.g. `A`) to represent any valid toki pona [*content word*](https://github.com/kilipan/nasin-toki#content-words) or [*phrase*](https://github.com/kilipan/nasin-toki#phrases)
+  - single capital letters (e.g. `X`) to represent any valid toki pona [*content word*](https://github.com/kilipan/nasin-toki#content-words) or [*phrase*](https://github.com/kilipan/nasin-toki#phrases)
   - `<prep>` to refer to any of the [*prepositions*](https://github.com/kilipan/nasin-toki#prepositions)
   - `<preverb>` to refer to any of the [*preverbs*](https://github.com/kilipan/nasin-toki#preverbs)
 - Code-blocks contain valid toki pona (when replacing the above-mentioned abbreviations with real words).
@@ -142,7 +142,7 @@ Example: `soweli li moku e kili` ("An animal eats fruit.")
   - It can be an action; like working, playing, talking
   - ... a description; like blue, good, tall
   - ... or a thing; like house, animal, food
-#### the object
+#### the direct object
 - `Z` is the thing that the action is done to, the **direct object**
   - it can also be basically anything
   - it is either the reciever of the action `Y` performed by `X`, e.g `soweli li pali e tomo` ~ "The animal builds a nest."
@@ -170,15 +170,19 @@ Examples:
 `soweli suli pimeja` ("dark big animal")
 `jan lawa pona` ("good leader")
 
-### objects in head-modifier phrases
-TODO
-
 ### the particle `pi`
 To modify the head of one phrase with another phrase instead of a single content word, we precede that second phrase with `pi`.
 
 Example:  
 `poki pi telo wawa` ("strong-liquid container", e.g. a cup of coffee), but  
 `poki telo wawa` ("strong liquid-container", e.g. a diamond bottle)
+
+### no objects in phrases
+Generally, objects cannot be part of phrases.
+They are a kind of recursion that is usually not done in toki pona.[^objects-in-phrases]
+
+[^objects-in-phrases]: While this is universally true for direct objects (marked with `e`), some people do use indirect, prepositional objects in phrases.
+  I personally avoid such constructions, since I dislike how this usage makes it hard to use prepositions in their content-word versions in phrases.
 
 
 ## how to use prepositions
@@ -262,7 +266,7 @@ Example:
 Special cases:
 - If there is a [preverb](https://github.com/kilipan/nasin-toki#preverbs) before the predicate, apply `X ala X` to the preverb instead of the main-predicate,
   e.g. `kili li kama ala kama suli` ("Did the fruit grow big?").
-- If the predicate is a [compound](https://github.com/kilipan/nasin-toki#compounds), you may just repeat the head,
+- If the predicate is a [phrase](https://github.com/kilipan/nasin-toki#phrases), you may just repeat the head,
   e.g. `jan li pana ala pana pi wawa mute e sike` ("Does the person yeet the ball?").
 - To stress what you are asking for, you can also `X ala X` other parts of the sentence,
   e.g. `soweli ala soweli li nasin e sina` ("Did an *animal* lead you?")
