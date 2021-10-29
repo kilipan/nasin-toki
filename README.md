@@ -184,8 +184,10 @@ Example:
 #### the direct object
 - In the example above, `Z` is the thing that the action is done to, the **direct object**
   - It can also be basically any kind of thing or being
-  - It is either the reciever of the action `Y` performed by `X`, e.g `soweli li pali e tomo` ~ "The animal builds a nest."
-  - ... or the stimulus that `X` experiences through doing `Y`, e.g. `soweli li lukin e kili` ~ "The animal sees a fruit."
+  - It is either the reciever of the action `Y` performed by `X`,
+    e.g. `soweli li pali e tomo` - "The animal builds a nest."
+  - ... or the stimulus that `X` experiences through doing `Y`,
+    e.g. `soweli li lukin e kili` - "The animal sees a fruit."
 
 
 ## phrases
@@ -317,8 +319,8 @@ Note how this ambiguity is also present in English:
 "The person builds and breaks houses and tools in the field by means of their hands."
 
 We can often resolve the ambiguity by restructuring, depending on what is really meant:  
-`jan li pali e tomo lon ma li pakala e ilo kepeken luka` ("The person builds a house in the field and breaks tools using their hands.")  
-`jan li pali e tomo e ilo kepeken luka li pakala e ona lon ma` ("The person builds houses and tools using their hands and breaks them in the field.")
+`jan li pali e tomo lon ma li pakala e ilo kepeken luka` - "The person builds a house in the field and breaks tools using their hands."  
+`jan li pali e tomo e ilo kepeken luka li pakala e ona lon ma` - "The person builds houses and tools using their hands and breaks them in the field."
 
 
 ## questions
@@ -336,11 +338,11 @@ Example:
 `moku ala` - "No."
 
 Special cases:
-- If there is a [preverb](https://github.com/kilipan/nasin-toki#preverbs) before the predicate, apply `X ala X` to the preverb instead of the main-predicate,
+- If there is a [preverb](https://github.com/kilipan/nasin-toki#preverbs) before the predicate, apply `X ala X` to the preverb instead of the main-predicate,  
   e.g. `kili li kama ala kama suli` ("Did the fruit grow big?").
-- If the predicate is a [phrase](https://github.com/kilipan/nasin-toki#phrases), you may just repeat the head,
+- If the predicate is a [phrase](https://github.com/kilipan/nasin-toki#phrases), you may just repeat the head,  
   e.g. `jan li pana ala pana pi wawa mute e sike` ("Does the person yeet the ball?").
-- To stress what you are asking for, you can also `X ala X` other parts of the sentence,
+- To stress what you are asking for, you can also `X ala X` other parts of the sentence,  
   e.g. `soweli ala soweli li nasin e sina` ("Did an *animal* lead you?")
 
 ### `anu seme`
@@ -391,8 +393,8 @@ or `waso li tawa lon ma kasi. soweli li lukin e ona` - "The animal watches birds
 For ordinal numbers, just attach the pseudo-particle `nanpa` and then a number.
 Using `nanpa` as an ordinal marker comes with a built-in `pi`, so you mustn't add that.
 
-Examples:
-`sina jan nanpa wan lon tomo ni` - "You are the first person in this building."
+Examples:  
+`sina jan nanpa wan lon tomo ni` - "You are the first person in this building."  
 `ilo nanpa wan li pona. ilo nanpa tu tu li pona ala` - "The first tool is good. The fourth tool isn't."
 
 ## comparisons
@@ -462,23 +464,29 @@ The particle `e` is the direct-object marker.
 Like all particles, it does not have any semantic meaning.
 The direct object in sentences is either the *patient* of an action or the *stimulus* of an experience.
 
-The *patient* of an action is the thing that the subject changes by performing the action that is described by the predicate.  
+The *patient* of an action is the thing that the subject changes by performing the action that is described by the predicate.
+
 Example: `soweli li pakala e kasi` - "The animal breaks off the plant."
 
-The *stimulus* is something the subject percieves, feels, or thinks.  
+The *stimulus* is something the subject percieves, feels, or thinks.
+
 Example: `mi lukin e mun` - "I watch the stars."
 
 We do not use `e` to mark indirect (prepositional) objects.
 They are neither patient nor stimulus.
 They are instead marked by prepositions.
+
 Example: `mi pali lon tomo` - "I work in the room."  
 Note the difference: `mi pali e tomo` - "I build a room."
 
 We also don't use `e` when the prepositional phrase follows `li` directly.
+
 Example: `ona li tawa tomo` - "They go to the house."  
 Note the difference: `ona li tawa e tomo` - "They [physically] move the house."
 
-Examples:  
+Finally, `e` can *never* occur inside of phrases, e.g. in the subject.
+
+More examples:  
 `waso li mama e waso lili` - "The bird cares for the chicks."  
 `jan Ali li sona e toki Alapi e toki Lasina e toki Inli e toki Putonwa` - "Ali knows Arabic, Latin, English, and Mandarin."
 
