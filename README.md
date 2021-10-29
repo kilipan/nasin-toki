@@ -6,7 +6,9 @@ Since toki pona is a very personal language, this document reflects my own **opi
 That said, nothing about this `nasin toki` is unusual.
 If you follow this grammar, you will be well understood by most (if not all) toki pona speakers.
 
-[toki pona](https://www.tokipona.org/) was created by Sonja Lang. My thanks and love, jan Sonja o! 💚
+💚 [toki pona](https://www.tokipona.org/) was created by Sonja Lang. My thanks and love, jan Sonja o!
+💚 I also want to thank the community, especially everyone who took the time to read this and give feedback!
+💚 jan Ke Tami o. kulupu poki o. tonsi Asi o. sina pona a tan toki sona sina
 
 
 ## table of contents
@@ -35,6 +37,10 @@ If you follow this grammar, you will be well understood by most (if not all) tok
     [`X ala X`](https://github.com/kilipan/nasin-toki#x-ala-x),
     [`anu seme`](https://github.com/kilipan/nasin-toki#anu-seme),
     [`seme`](https://github.com/kilipan/nasin-toki#seme)
+  - ["relatige clauses"](https://github.com/kilipan/nasin-toki#relatige-clauses)
+  - [ordinals](https://github.com/kilipan/nasin-toki#ordinals)
+  - [comparisons](https://github.com/kilipan/nasin-toki#comparisons)
+  - [transitives](https://github.com/kilipan/nasin-toki#transitives)
 
 - [in-depth](https://github.com/kilipan/nasin-toki#in-depth)
     - [more info on particles](https://github.com/kilipan/nasin-toki#more-info-on-particles)
@@ -373,6 +379,24 @@ It is easiest to learn by example:
 
 Superlatives can be expressed with the ordinal `nanpa wan` ("first"):  
 `pona la toki ni li nanpa wan` - "When it comes to goodness, this language is the best."
+
+
+## transitives
+Sometimes, we come across strange constructions in toki pona.
+Things like `mi tomo e waso`[^Ke-Tami] look may confusing at first, but there are some simple strategies to interpret this.
+
+[^Ke-Tami] Thank you for the great example, jan Ke Tami!
+
+When we use the construction `X li Y e Z` we usually mean one of three things, depending on [context](https://github.com/kilipan/nasin-toki#context):
+
+- The subject causes the object be Y, "X causes Z to be Y.".
+  In terms of toki pona, we can restructure this to `X li pali e ni: Z li Y`.
+  `mi pona e tomo` - e.g. "We cause the room to be good.", or "I repair the house."
+- The subject makes the object an instance of Y, "X makes Z into Y".
+  Note how the rephrasing in toki pona leads to the same sentence, `X li pali e ni: Z li Y`.
+  `mi tomo e waso` - e.g. "We turn the bird into a house." (Maybe it is a very big bird and we can live in its plumage!)
+- to apply X to something:
+  `mi luka e soweli len` - e.g. "I pet the hidden dog.", or "I hit the plush toy."
 
 
 # in-depth
