@@ -389,13 +389,13 @@ Things like `mi tomo e waso`[^Ke-Tami] look may confusing at first, but there ar
 
 When we use the construction `X li Y e Z` we usually mean one of three things, depending on [context](https://github.com/kilipan/nasin-toki#context):
 
-- The subject causes the object be Y, "X causes Z to be Y.".
-  In terms of toki pona, we can restructure this to `X li pali e ni: Z li Y`.
+- The subject causes the object be Y, "X causes Z to be Y.".  
+  In terms of toki pona, we can restructure this to `X li pali e ni: Z li Y`.  
   `mi pona e tomo` - e.g. "We cause the room to be good.", or "I repair the house."
-- The subject makes the object an instance of Y, "X makes Z into Y".
-  Note how the rephrasing in toki pona leads to the same sentence, `X li pali e ni: Z li Y`.
+- The subject makes the object an instance of Y, "X makes Z into Y.".  
+  Note how the rephrasing in toki pona leads to the same sentence, `X li pali e ni: Z li Y`.  
   `mi tomo e waso` - e.g. "We turn the bird into a house." (Maybe it is a very big bird and we can live in its plumage!)
-- to apply X to something:
+- The subject applies Y to the object, "X applies Y to Z.".
   `mi luka e soweli len` - e.g. "I pet the hidden dog.", or "I hit the plush toy."
 
 
