@@ -6,6 +6,8 @@ Since toki pona is a very personal language, this document reflects my own **opi
 That said, nothing about this `nasin toki` is unusual.
 If you follow this grammar, you will be well understood by most (if not all) toki pona speakers.
 
+[toki pona](https://www.tokipona.org/) was created by Sonja Lang. My thanks and love, jan Sonja o! 💚
+
 
 ## table of contents
 
