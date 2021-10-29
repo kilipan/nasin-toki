@@ -93,6 +93,10 @@ In toki pona, these things are split up into multiple sentences:
 ### no single word for "and"
 To say "and", instead repeat the appropriate particle (cf. the [section on how to say "and"](https://github.com/kilipan/nasin-toki#how-to-say-and)).
 
+### no tense-marking
+In toki pona, we do not mark the predicate for tense.
+All sentences that don't have explicit mentions of the time in other parts (like the indirect object or the context-phrase) can be interpreted as past, present, or future (or any other tense).
+
 
 ## word types
 This sections lists the types of words in toki pona.
@@ -118,7 +122,7 @@ It is used to add emotional emphasis to words, phrases, or whole sentences.
 ### pseudo-particles
 `nanpa`, `kin`, `ala`, `taso`, `anu`
 
-The *pseudo-particles* are words that have particle-like properties, but can sometimes also be used as content-words.
+The *pseudo-particles* are words that have particle-like properties, but can sometimes also be used like content words.
 They are therefore listed as their own category.
 As with the particles, check their respective sections in the [in-depth part](https://github.com/kilipan/nasin-toki#in-depth) for more details.
 
@@ -126,7 +130,7 @@ As with the particles, check their respective sections in the [in-depth part](ht
 Literally every other word in toki pona is a *content word* with semantic meaning attached.
 Every content word can work like all of what is called "adjective", "adverb", "verb", "noun" in English.
 Some of these are part of special groupings that give them additional grammatical functions.
-All the words that aren't mentioned in this section are pure content words.
+All the words that aren't mentioned explicitly here are pure content words.
 
 #### pronouns
 `mi`, `sina`, `ona`, `ni`
@@ -158,7 +162,7 @@ A basic toki pona sentence looks like this:
 
 `X li Y [e Z]`[^li-dropping]
 
-(more complex sentence structures are of course possible, if necessary (e.g. [here](https://github.com/kilipan/nasin-toki#combining-different-conjunctions)))
+(more complex sentence structures are of course possible, if really necessary (e.g. [here](https://github.com/kilipan/nasin-toki#combining-different-conjunctions)))
 
 [^li-dropping]: Whenever our main character, the subject `X` is exactly the word `mi` (and nothing else) or exactly the word `sina` (and nothing else), the particle `li` is dropped from the sentence.
   Examples:
@@ -169,24 +173,25 @@ Example:
 `soweli li moku e kili` - "An animal eats fruit."
 
 #### the subject
-- `X` is the main character of our sentence, the **subject**
+- In the example above, `X` is the main character of our sentence, the **subject**
   - It can be a person, a thing, an idea, anything really
   - The important part is that our sentence describes what `X` is or is doing
 #### the predicate
-- `Y` is this thing they are or are doing, the **predicate**
+- In the example above, `Y` is this thing they are or are doing, the **predicate**
   - It can be an action; like working, playing, talking
   - ... a description; like blue, good, tall
   - ... or a thing; like house, animal, food
-#### the direct object - `Z` is the thing that the action is done to, the **direct object**
-  - it can also be basically anything
-  - it is either the reciever of the action `Y` performed by `X`, e.g `soweli li pali e tomo` ~ "The animal builds a nest."
+#### the direct object
+- In the example above, `Z` is the thing that the action is done to, the **direct object**
+  - It can also be basically any kind of thing or being
+  - It is either the reciever of the action `Y` performed by `X`, e.g `soweli li pali e tomo` ~ "The animal builds a nest."
   - ... or the stimulus that `X` experiences through doing `Y`, e.g. `soweli li lukin e kili` ~ "The animal sees a fruit."
 
 
 ## phrases
 Since toki pona has a very minimalist lexicon, all the content words cover broad semantic fields.
-To specify what we are talking about, we can build *phrases*.  
-A phrase consists of a main content word, the **head**, and zero or more additional content words, the **modifier(s)**.
+To specify what we are talking about, we can build multi-word *phrases*.  
+In general, a phrase consists of a main content word, the **head**, and zero or more additional content words, the **modifier(s)**.
 
 The head is the main thing we are talking about, while the modifiers further specify the head's (usually very broad) semantic field.
 We can always remove any modifiers from a given phrase without changing that it *could* refer to the same thing as before, but it becomes less specific by doing so.
@@ -202,16 +207,17 @@ To negate the a phrase, just append the word `ala`.
 Examples:  
 `mi pali ala` - "I will not work."  
 `jan ala li lon tomo ni` - "Nobody is in this house."  
-`sina utala ala e waso suli` - "You don't fight the horse-sized duck."  
+`sina utala ala e waso suli` - "You didn't fight the horse-sized duck."  
 `ilo li tawa e jan ala` - "The tool moves non-persons." (Maybe it's a conveyor belt in a factory.)
 
 ### multiple modifiers
 If multiple modifiers are present they all apply to the head of the phrase.
-We can simply append modifiers like `X Y Z` is an `X` that is related to `Y` and to `Z`
-The order in which modifiers is not strictly important, but it can be used to highlight the earlier modifiers.
+We can simply append additional modifiers.
+Thus, `X Y Z` is an `X` that is related to `Y` and to `Z`.
+The order in which modifiers is not strictly important, but it can be used to highlight those modifiers that are closer to the head.
 
 Examples:  
-`soweli suli pimeja` - "dark big animal"
+`soweli suli pimeja` - "dark big animal"  
 `jan lawa pona` - "good lead-person"
 
 ### the particle `pi`
@@ -224,6 +230,7 @@ Example:
 ### no objects in phrases
 Generally, objects cannot be part of phrases.
 They are a kind of recursion that is usually not done in toki pona.[^objects-in-phrases]
+As such, we can use the prepositions as content words in phrases.
 
 [^objects-in-phrases]: While this is universally true for direct objects (marked with `e`), some people do use indirect, prepositional objects in phrases.
   I personally avoid such constructions, since I dislike a few things about them.  
@@ -244,12 +251,12 @@ Example:
 `kasi li suli tan wawa suno` - "The plants are big because of the sun's power."  
 `ona li kepeken ilo` - "They use tools." (lit. "They, using tools.")  
 `mi sama sina` - "I am like you." (lit. "I, like you.")  
-Note that while these last two literal constuctions are not valid in English, it is so in other languages such as Russian and toki pona.
+Note that while these last two literal constuctions are not valid in English, they are so in other languages such as Russian and toki pona.
 
 
 ## how to use preverbs
 The [preverbs](https://github.com/kilipan/nasin-toki#preverbs) are used to change the semantic field in ways that simple modifiers cannot.
-They are simple added *in front of* the predicate they are applied to.
+They are added *before* the predicate they are applied to.
 
 `X li <preverb> Y [e Z]`
 
@@ -291,8 +298,15 @@ We can also add multiple prepositional phrases to a sentence.
 Here are some examples of how to say or not say "and" in prepositional contexts:  
 `waso li musi kepeken wawa kepeken kon` - "Birds play using power and air."  
 `jan Pin li sama jan Po li sama jan Kiko.` - "Finn is like Bob and like Rico." (Note the additional `li`.)  
-`jan Pin li sama jan Po sama jan Kiko.` - "Finn, like Rico, is like Bob.", but arguably also "Finn is like Bob and like Rico.".
+`jan Pin li sama jan Po sama jan Kiko.` - "Finn, like Rico, is like Bob.", but arguably also "Finn is like Bob and like Rico.".  
 To reduce ambiguity we should always add the second `li` in case the first version is intended.
+
+#### in `pi`-phrases
+While the general principle suggests that all pi-phrases should simply apply to the overall head of the phrase,
+context can often indicate that instead the internal `pi` relates to the head of the external `pi`-phrase instead.
+
+In general, we should avoid using multiple `pi` inside of one big phrase,
+because shorter phrases are easier to parse and less grammatically ambiguous.
 
 #### combining different conjunctions
 When multiple predicates are present, it can be ambiguous which predicate(s) the object(s) and preposition(s) apply to.
@@ -302,8 +316,8 @@ Example:
 Note how this ambiguity is also present in English:
 "The person builds and breaks houses and tools in the field by means of their hands."
 
-We can often resolve the ambiguity by restructuring, depending on what is really meant:
-`jan li pali e tomo lon ma li pakala e ilo kepeken luka` ("The person builds a house in the field and breaks tools using their hands.")
+We can often resolve the ambiguity by restructuring, depending on what is really meant:  
+`jan li pali e tomo lon ma li pakala e ilo kepeken luka` ("The person builds a house in the field and breaks tools using their hands.")  
 `jan li pali e tomo e ilo kepeken luka li pakala e ona lon ma` ("The person builds houses and tools using their hands and breaks them in the field.")
 
 
@@ -313,7 +327,8 @@ There are three different ways to build a question.
 ### `X ala X`
 This construction is used for simple yes-or-no questions: `Y li X ala X`
 It asks the listener whether the sentence `Y li X` is true.  
-To answer an `X ala X` question, simply repeat the predicate for yes (`X`) or the predicate followed by `ala` for "no" (`X ala`).
+To answer an `X ala X` question, we simply repeat the predicate for yes (`X`) or the predicate followed by `ala` for "no" (`X ala`).
+For "no", we can also just say `ala`.
 Of course it is always possible to answer in a full sentence instead.
 
 Example:  
@@ -330,7 +345,7 @@ Special cases:
 
 ### `anu seme`
 The second way to ask a yes-or-no question is `X li Y anu seme`.
-This is not much different from the first, but it suggests a less simple answer than just "yes" or "no" may be expected.
+This is not much different from the first, but it suggests that a less simple answer than just "yes" or "no" may be expected.
 It is answered the same way as the `X ala X` question.
 
 Example:  
@@ -355,7 +370,7 @@ Examples:
 
 
 ## "relative clauses"
-In toki pona, building sentences that ar similar to relative clauses requires multiple sentences (often just two).
+In toki pona, building sentences that are similar to relative clauses requires multiple sentences (often just two).
 We can do so by using the word `ni` to mark the word we want to describe further,
 and then postponing that further description until the end of the current sentence.
 
@@ -366,20 +381,19 @@ Examples:
 Another strategy is to move the descriptive sentence to the beginning and append the main sentence.
 
 Examples:  
-`jan li mama e kasi. jan ni li pona tawa mi` - People who care for plants are good to me."  
-`jan li mama e kasi. ona li pona tawa mi` - People who care for plants are good to me."  
+`jan li mama e kasi. jan ni li pona tawa mi` - "People who care for plants are good to me."  
+or `jan li mama e kasi. ona li pona tawa mi` - "People who care for plants are good to me."  
 `waso li tawa lon ma kasi. soweli li lukin e waso ni` - "The animal watches birds that fly through the forest."  
-`waso li tawa lon ma kasi. soweli li lukin e ona` - "The animal watches birds that fly through the forest."
+or `waso li tawa lon ma kasi. soweli li lukin e ona` - "The animal watches birds that fly through the forest."
 
 
 ## ordinals
-In toki pona, numbers higher than a few are intentionally *very* hard to express.
 For ordinal numbers, just attach the pseudo-particle `nanpa` and then a number.
-Using `nanpa` as an ordinal marker, it has a built-in `pi`, so you don't need to add that.
+Using `nanpa` as an ordinal marker comes with a built-in `pi`, so you mustn't add that.
 
 Examples:
 `sina jan nanpa wan lon tomo ni` - "You are the first person in this building."
-`ilo nanpa wan li pona. ilo nanpa tu li pona ala` - "The first tool is good. The second tool isn't."
+`ilo nanpa wan li pona. ilo nanpa tu tu li pona ala` - "The first tool is good. The fourth tool isn't."
 
 ## comparisons
 For comparatives, there are multiple possible constructions.
@@ -393,9 +407,9 @@ Superlatives can be expressed with the ordinal `nanpa wan` ("first"):
 
 ## transitives
 Sometimes, we come across strange constructions in toki pona.
-Things like `mi tomo e waso`[^Ke-Tami] look may confusing at first, but there are some simple strategies to interpret this.
+Things like `mi tomo e waso`[^Ke-Tami] may look confusing at first, but there are some simple strategies to interpret this.
 
-[^Ke-Tami] Thank you for the great example, jan Ke Tami!
+[^Ke-Tami]: Thank you for the great example, jan Ke Tami!
 
 When we use the construction `X li Y e Z` we usually mean one of three things, depending on [context](https://github.com/kilipan/nasin-toki#context):
 
@@ -428,8 +442,8 @@ Examples:
 
 ### the particle `li`
 The particle `li` is a predicate marker.
-Like all particles, it does not have any semantic meaning.
-It is only omitted if the subject is *exactly* and *only* "mi", or *exactly* and *only* "sina".
+Like all particles, it does not have any semantic meaning.  
+It is only omitted if the subject is *exactly* and *only* "mi", or *exactly* and *only* "sina".  
 Thus, we say `mi pali` since the subject is `mi`,
 but neither in `pali mi li pona` (subject: `pali mi`) nor in `mi taso li lon tomo` (subject: `mi taso`) can `li` be omitted.
 
@@ -440,8 +454,8 @@ This is of course only true if the subject is not `mi` or `sina` and if `li` is 
 
 Examples:  
 `soweli li suwi` - "The animal is cute."  
-`mi kama li lukin li anpa` - "I cam, saw, and conquered."
-`ona li pali mute li lape lili` - "They work a lot and sleep a bit."  
+`mi kama li lukin li anpa` - "I came, saw, and conquered."  
+`ona li pali mute li lape lili` - "They work a lot and sleep a bit."
 
 ### the particle `e`
 The particle `e` is the direct-object marker.
@@ -465,7 +479,7 @@ Example: `ona li tawa tomo` - "They go to the house."
 Note the difference: `ona li tawa e tomo` - "They [physically] move the house."
 
 Examples:  
-`waso li mama e waso lili` - "The bird cares for the chicks."
+`waso li mama e waso lili` - "The bird cares for the chicks."  
 `jan Ali li sona e toki Alapi e toki Lasina e toki Inli e toki Putonwa` - "Ali knows Arabic, Latin, English, and Mandarin."
 
 ### the particle `la`
@@ -482,7 +496,7 @@ and it will mean the same as when appending the same phrase (albeit with differe
 Examples:  
 `tenpo lon la mi sitelen e lipu sona` - "Right now, I write a knowlegde-document."  
 `mi la ni li pona` - "As for me, this is nice."  
-`jan Pala la suno li wawa a` - "Barbara told me that the sun is intense!"
+`jan Pala la suno li wawa a` - "Barbara told me that the sun is intense!"  
 `supa tomo li jaki la jan li telo e ona` - "If the floor is dirty, then people wash it."  
 `kepeken ilo telo wawa la mi weka e jaki tan supa` - "I powerclean the front-porch."
 
@@ -492,11 +506,12 @@ It is never used for single-word modifiers.
 Like all particles, it does not have any semantic meaning.
 
 By default, modifiers are applied from left to right to the head.
-If a `pi` is added, everything that follows pi becomes its own phrase, that modifes the head preceding `pi` as one.  
+If a `pi` is added, everything that follows pi becomes its own phrase, that in turn modifes the head preceding the `pi` as one.
+
 Examples:  
 `jan lawa mute` - "many head-people" (e.g. "many leaders")  
 `jan pi lawa mute` - "many-headed person"  
-`ilo tawa lili mute` - "many small movement-tools" (e.g. "many skaetboards")  
+`ilo tawa lili mute` - "many small movement-tools" (e.g. "many skateboards")  
 `ilo pi tawa lili mute` - "tool related to many small movements" (e.g. "electric toothbrush")  
 `ilo tawa pi lili mute` - "very small movement-tool"
 
@@ -509,6 +524,7 @@ we need to be aware that there is ambiguity in whether they all apply to the ove
 The particle `o` is a second predicate marker, as well as a vocative marker.
 Like all particles, it does not have any semantic meaning.
 It is used in place of `li` when issuing commands, or describing wishes or desires.
+
 In direct commands to the listener, the subject `sina` can be omitted.  
 `[sina] o tawa pona` - "Drive carefully!"
 
@@ -526,7 +542,7 @@ Combining vocative and imperative can also be done easily:
 
 ### the emoticle `a`
 The word `a` can be appended to any word, phrase, or sentence to add emotional emphasis.
-It can also be used on its own to express utterances like "ah!", "oh!", "wow!", etc.**
+It can also be used on its own to express utterances like "ah!", "oh!", "wow!", etc.
 
 Examples:  
 `pona a` - "So good!"  
@@ -546,7 +562,7 @@ When there is also a `pi` present, we have to take care how we order things:
 `ilo nanpa wan pi akesi suwi` - "the axolotol's first tool"
 
 When `nanpa` occurs as a head, it describes the respective number instead of ordinals:  
-`nanpa tu li nanpa pona tawa mi` - "I like the number two."
+`nanpa tu li nanpa pona tawa mi` - "I like the number two."  
 `len pi nanpa wan li loje` - "The shirt with the number 1 printed on it is red."
 
 We can slightly extend the usage of `nanpa` when pointing to the following, or last thing in an ordered list:  
@@ -554,7 +570,7 @@ We can slightly extend the usage of `nanpa` when pointing to the following, or l
 `mi toki lon kalama pana nanpa kama` - "I will speak in the next podcast episode."
 
 ### the pseudo-particle `kin`
-`kin` is an additive marker, which describes that a phrase is or is doing something as well,
+`kin` is an additive marker, which describes that a phrase *is* or *is doing* something as well,
 or has something being done to it as well.
 It is used very similarly to the English word "too".
 
@@ -562,8 +578,8 @@ It can be appended like a modifier to any phrase, but cannot occur as a head its
 The only exception is in the context-phrase `kin la`,
 where it marks the whole following sentence as an addition to what was already said.
 
-Examples:
-`jan li ken pona kin` - "People can also be peaceful."
+Examples:  
+`jan li ken pona kin` - "People can also be peaceful."  
 `kin la ma li sike e suno` - "Furthermore, the earth revolves around the sun."
 
 Examples of different placement:  
@@ -607,10 +623,11 @@ In general, `anu` is a conjunction meaning "or" (both exclusive and inclusive).
 We can use it to join different parts of speech into a contextually appropriate *`anu`-phrase.*
 What I am calling `anu`-phrase here consists of two valid phrases joined by the word `anu`.
 These phrases then act as a new phrase that can occur in either of the subject, the predicate and the (direct and indirect) object.
+Using `anu` inside of `pi`-phrases should be avoided due to the arising ambiguities.
 
 Examples:  
-`waso anu kala li tawa` - "The bird or the fish moves."
-`waso li pali anu pakala e tomo` - "Birds build or destroy the nest."
+`waso anu kala li tawa` - "The bird or the fish moves."  
+`waso li pali anu pakala e tomo` - "Birds build or destroy the nest."  
 `soweli li pali e tomo e lupa` - "Animals build nests or burrows."
 
 We can also put `anu` in a context-phrase, to indicate that the whole sentence is an alternative to something else.  
