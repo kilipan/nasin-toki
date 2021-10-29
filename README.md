@@ -208,10 +208,10 @@ Generally, objects cannot be part of phrases.
 They are a kind of recursion that is usually not done in toki pona.[^objects-in-phrases]
 
 [^objects-in-phrases]: While this is universally true for direct objects (marked with `e`), some people do use indirect, prepositional objects in phrases.
-  I personally avoid such constructions, since I dislike a few things about them.
-  - Their usage makes it hard to use prepositions in their content-word versions in phrases.
-  - They can often be expressed by removing the preposition (if a single word is floowing it) or replacing the preposition with `pi` (if multiple words are following).
-  - They, like all other kinds of objects, lead to recursions that I do not consider *pona.*
+  I personally avoid such constructions, since I dislike a few things about them.  
+  (1) Their usage makes it hard to use prepositions in their content-word versions in phrases.
+  (2) They can often be expressed by removing the preposition (if a single word is floowing it) or replacing the preposition with `pi` (if multiple words are following).
+  (3) They, like all other kinds of objects, lead to recursions that I do not consider *pona.*
 
 
 ## how to use prepositions
