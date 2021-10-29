@@ -49,6 +49,7 @@ If you follow this grammar, you will be well understood by most (if not all) tok
       - [the pseudo-particle `taso`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-taso)
       - [the pseudo-particle `anu`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-anu)
     - [a comparative analysis of prepositions](https://github.com/kilipan/nasin-toki#a-comparative-analysis-of-prepositions)
+    - [context](https://github.com/kilipan/nasin-toki#context)
 
 
 # basics
@@ -176,7 +177,7 @@ Example:
 ## phrases
 Since toki pona has a very minimalist lexicon, all the content words cover broad semantic fields.
 To specify what we are talking about, we can build *phrases*.  
-A phrase consists of a main content word, the **head**, and at least one additional content word, the **modifier(s)**.
+A phrase consists of a main content word, the **head**, and zero or more additional content words, the **modifier(s)**.
 
 The head is the main thing we are talking about, while the modifiers further specify the head's (usually very broad) semantic field.
 We can always remove any modifiers from a given phrase without changing that it *could* refer to the same thing as before, but it becomes less specific by doing so.
@@ -207,7 +208,10 @@ Generally, objects cannot be part of phrases.
 They are a kind of recursion that is usually not done in toki pona.[^objects-in-phrases]
 
 [^objects-in-phrases]: While this is universally true for direct objects (marked with `e`), some people do use indirect, prepositional objects in phrases.
-  I personally avoid such constructions, since I dislike how this usage makes it hard to use prepositions in their content-word versions in phrases.
+  I personally avoid such constructions, since I dislike a few things about them.
+  - Their usage makes it hard to use prepositions in their content-word versions in phrases.
+  - They can often be expressed by removing the preposition (if a single word is floowing it) or replacing the preposition with `pi` (if multiple words are following).
+  - They, like all other kinds of objects, lead to recursions that I do not consider *pona.*
 
 
 ## how to use prepositions
@@ -219,7 +223,9 @@ They are either appended to the predicate they modify or come directly after `li
 
 Example:  
 `kasi li suli tan wawa suno` - "The plants are big because of the sun's power."  
-`ona li kepeken ilo` - "They use tools."; literally: "They, using tools."; Note that while this kind of construction is not valid in English, it is so in other languages such as Russian and toki pona.
+`ona li kepeken ilo` - "They use tools." (lit. "They, using tools.")  
+`mi sama sina` - "I am like you." (lit. "I, like you.")  
+Note that while these last two literal constuctions are not valid in English, it is so in other languages such as Russian and toki pona.
 
 
 ## how to use preverbs
@@ -236,7 +242,7 @@ The word "and" has no translation in toki pona.
 Instead, a general rule is to just repeat the appropriate particle to form conjunctions.
 
 #### multiple subjects
-To combine different words into a subject, we use the word `en`.
+To combine different phrases into a subject, we use the word `en`.
 
 `X en Y li Z`  
 `A en B en C li D`
@@ -260,8 +266,14 @@ To add multiple objects, just repeat the particle `e`.
 
 #### multiple prepositional phrases
 We can also add multiple prepositional phrases to a sentence.
-- `A li B <prep> C <prep> D`
-- `A li <prep> B <prep> C`
+
+`A li B <prep> C <prep> D`  
+
+Here are some examples of how to say or not say "and" in prepositional contexts:  
+`waso li musi kepeken wawa kepeken kon` - "Birds play using power and air."  
+`jan Pin li sama jan Po li sama jan Kiko.` - "Finn is like Bob and like Rico." (Note the additional `li`.)  
+`jan Pin li sama jan Po sama jan Kiko.` - "Finn, like Rico, is like Bob.", but arguably also "Finn is like Bob and like Rico.".
+To reduce ambiguity we should always add the second `li` in case the first version is intended.
 
 #### combining different conjunctions
 When multiple predicates are present, it can be ambiguous which predicate(s) the object(s) and preposition(s) apply to.
@@ -303,13 +315,14 @@ This is not much different from the first, but it suggests a less simple answer 
 It is answered the same way as the `X ala X` question.
 
 Example:  
-`lete li lon ma sina anu seme` - "Is it cold where you are?"  
+`ma sina li lete anu seme` - "Is it cold where you are?"  
 `lete. taso suno pini li seli a` - "Yes, but yesterday it was very warm!"
 
 ### `seme`
 If we replace the thing that is asked for with `seme`, we can ask an open question.
 Using this construction, we ask the listener to fill the place of `seme` with the appropriate information.
-These types of question are best answered with a full sentence.
+These types of question are often answered with a full sentence.
+You may also just say the phrase in question.
 
 Examples:
 `jan seme li toki` - "Who is speaking?"  
@@ -322,14 +335,22 @@ Examples:
 `mi lukin e waso` ("I am watching birds.")
 
 
-## relative clauses
-Building relative clauses in toki pona requires splitting sentences into two.
+## "relative clauses"
+In toki pona, building sentences that ar similar to relative clauses requires multiple sentences (often just two).
 We can do so by using the word `ni` to mark the word we want to describe further,
 and then postponing that further description until the end of the current sentence.
 
 Examples:  
 `jan ni li pona tawa mi: ona li mama e kasi` - "People who care for plants are good to me."  
 `soweli li lukin e waso ni: ona li tawa lon ma kasi` - "The animal watches birds that fly through the forest."
+
+Another strategy is to move the descriptive sentence to the beginning and append the main sentence.
+
+Examples:  
+`jan li mama e kasi. jan ni li pona tawa mi` - People who care for plants are good to me."  
+`jan li mama e kasi. ona li pona tawa mi` - People who care for plants are good to me."  
+`waso li tawa lon ma kasi. soweli li lukin e waso ni` - "The animal watches birds that fly through the forest."  
+`waso li tawa lon ma kasi. soweli li lukin e ona` - "The animal watches birds that fly through the forest."
 
 
 ## ordinals
@@ -402,7 +423,7 @@ They are instead marked by prepositions.
 Example: `mi pali lon tomo` - "I work in the room."  
 Note the difference: `mi pali e tomo` - "I build a room."
 
-We also don't use `e` when the prepositional phrase follow `li` directly.
+We also don't use `e` when the prepositional phrase follows `li` directly.
 Example: `ona li tawa tomo` - "They go to the house."  
 Note the difference: `ona li tawa e tomo` - "They [physically] move the house."
 
@@ -486,6 +507,7 @@ Examples:
 
 ### the pseudo-particle `anu`
 
+
 ## a comparative analysis of prepositions
 This section provides a comparative analysis of how prepositions work in toki pona.
 Since it contains some unusual interpretations, alternative readings are given as well.
@@ -528,7 +550,27 @@ Since it contains some unusual interpretations, alternative readings are given a
 - `mi tan utala e ona` - "I make them be the result of conflict."[^prepanalysis] **or**
 - `mi kepeken ilo e ona` - "I make them use a tool."[^prepanalysis]
 
-
 [^prepanalysis]: These examples are not according to actual usage.
   They are here for completeness' sake.
   While they are not necessarily used like this, they serve as good reasons not to use the 'kepeken e' strategy to say "X uses Y".
+
+
+## context
+If you have ever asked a `jan pi toki pona` how to say some word from a natural language,
+you will probably have heard about *context.*
+It is the almighty disambiguator, the thing that condenses the vast semantic fields of our utterance into manageable dimensions.
+It lets us understand whether someone is talking about a fox's burrow, a zoo, or a cat-shaped house.
+
+The context of a sentence encompasses the entire experience the speaker and listener have while communicating.
+In one situation `mi o tawa` means "I should leave.", in another it is "Let's go!".
+
+Beginners often try to express the wildest things in single phrases.
+They stack `pi` upon `pi`, throw in more and more modifiers,
+and end up with an unwieldy construction that is hard to intepret (at best) and even harder to come up with on the fly.
+When context is missing, all the building blocks of the phrase can be misinterpreted.
+This is why we need to *establish* the appropriate context in toki pona, before we can go on to say the things we want to say.
+Instead of throwing all the information about the intended word into one phrase,
+we should describe it in multiple short and easily interpretable sentences.
+
+Getting a feeling for context is something this document cannot teach.
+We need to practice toki pona with other speakers, especially those that have a firm grasp on the language.
