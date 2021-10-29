@@ -28,6 +28,7 @@ If you follow this grammar, you will be well understood by most (if not all) tok
       [question word](https://github.com/kilipan/nasin-toki#question-word)
   - [sentence structure](https://github.com/kilipan/nasin-toki#sentence-structure)
   - [phrases](https://github.com/kilipan/nasin-toki#phrases)
+    - [negation](https://github.com/kilipan/nasin-toki#negation)
     - [multiple modifiers](https://github.com/kilipan/nasin-toki#multiple-modifiers)
     - [the particle `pi`](https://github.com/kilipan/nasin-toki#the-particle-pi)
   - [how to use prepositions](https://github.com/kilipan/nasin-toki#how-to-use-prepositions)
@@ -195,6 +196,15 @@ In `tomo waso` ("bird-house"), the word `tomo` is the head while `waso` modifies
 We are talking first and foremost about a `tomo`.
 The modifier tells us that the `tomo` is in some way related to the semantic field of `waso`.
 
+### negation
+To negate the a phrase, just append the word `ala`.
+
+Examples:  
+`mi pali ala` - "I will not work."  
+`jan ala li lon tomo ni` - "Nobody is in this house."  
+`sina utala ala e waso suli` - "You don't fight the horse-sized duck."  
+`ilo li tawa e jan ala` - "The tool moves non-persons." (Maybe it's a conveyor belt in a factory.)
+
 ### multiple modifiers
 If multiple modifiers are present they all apply to the head of the phrase.
 We can simply append modifiers like `X Y Z` is an `X` that is related to `Y` and to `Z`
@@ -202,7 +212,7 @@ The order in which modifiers is not strictly important, but it can be used to hi
 
 Examples:  
 `soweli suli pimeja` - "dark big animal"
-`jan lawa pona` - "good leader"
+`jan lawa pona` - "good lead-person"
 
 ### the particle `pi`
 To modify the head of one phrase with another phrase instead of a single content word, we precede that second phrase with `pi`.
@@ -524,15 +534,87 @@ Examples:
 `o lukin e pali mi a` - "Look at my work!" \[e.g. implying pride or sadness, depending on context]
 `ni li musi a tawa mi` - "This is so fun!"
 
+
 ## more info on pseudo-particles
 
 ### the pseudo-particle `nanpa`
+As described in the section on [ordinals](https://github.com/kilipan/nasin-toki#ordinals),
+the pseudo-particle `nanpa` is used for enumerating the head when appended directly to a phrase.
+
+When there is also a `pi` present, we have to take care how we order things:  
+`ilo pi akesi suwi nanpa wan` - "the first axolotl's tool"  
+`ilo nanpa wan pi akesi suwi` - "the axolotol's first tool"
+
+When `nanpa` occurs as a head, it describes the respective number instead of ordinals:  
+`nanpa tu li nanpa pona tawa mi` - "I like the number two."
+`len pi nanpa wan li loje` - "The shirt with the number 1 printed on it is red."
+
+We can slightly extend the usage of `nanpa` when pointing to the following, or last thing in an ordered list:  
+`sitelen tawa nanpa pini li musi a` - "The last video was so fun!"  
+`mi toki lon kalama pana nanpa kama` - "I will speak in the next podcast episode."
+
+### the pseudo-particle `kin`
+`kin` is an additive marker, which describes that a phrase is or is doing something as well,
+or has something being done to it as well.
+It is used very similarly to the English word "too".
+
+It can be appended like a modifier to any phrase, but cannot occur as a head itself.
+The only exception is in the context-phrase `kin la`,
+where it marks the whole following sentence as an addition to what was already said.
+
+Examples:
+`jan li ken pona kin` - "People can also be peaceful."
+`kin la ma li sike e suno` - "Furthermore, the earth revolves around the sun."
+
+Examples of different placement:  
+`ona kin li pali e lipu` - "They write a book, too [among other writers of books]."  
+`ona li pali kin e lipu` - "They write a book, too [among other things being done to the book]."  
+`ona li pali e lipu kin` - "They write a book, too [among other things being created]."  
+Note that these sentences can all be translated the same in English.
+While they have slightly different focus, interpreting this too strictly is not advisable.
 
 ### the pseudo-particle `ala`
+As we've seen in the section on [negation](https://github.com/kilipan/nasin-toki#negation),
+the pseudo-particle `ala` can be used exactly like a content word when negating inside of phrases.
+
+Aside from that, it can be a head itself, with semantic connotations of "nothingness", "void", etc.
+
+Additionally, we can negate preverbs and prepositions with it, in a way that no other modifier can:  
+`mi sona ala pali e tomo` - "I didn't know how to build the house."  
+`kala li moku kepeken ala ilo` - "The fish ate without using tools."
 
 ### the pseudo-particle `taso`
+The word `taso` is similar to `kin` in *where* it can occur.
+Its meaning is different, of course.
+Using it as a modifier, we can indicate that the marked phrase is the "only" thing that the sentences statement applies to.
+Sentence initially, it marks the whole sentence as contrary to some previous statement, like English "but".
+In some contexts, it can even work as a head-noun
+
+Examples:
+`soweli li ken pona taso` - "Animals can only be good."
+`taso ma li sike e suno` - "But, the earth revolves around the sun."
+
+Examples of different placement:  
+`ona taso li pali e lipu` - "Only they write a book."  
+`ona li pali taso e lipu` - "They only write a book."  
+`ona li pali e lipu taso` - "They write only a book."  
 
 ### the pseudo-particle `anu`
+Info on the word `anu` has always been notoriously hard to find,
+while at the same time the community's usage of it is much more varied than with other words.
+
+In general, `anu` is a conjunction meaning "or" (both exclusive and inclusive).
+We can use it to join different parts of speech into a contextually appropriate *`anu`-phrase.*
+What I am calling `anu`-phrase here consists of two valid phrases joined by the word `anu`.
+These phrases then act as a new phrase that can occur in either of the subject, the predicate and the (direct and indirect) object.
+
+Examples:  
+`waso anu kala li tawa` - "The bird or the fish moves."
+`waso li pali anu pakala e tomo` - "Birds build or destroy the nest."
+`soweli li pali e tomo e lupa` - "Animals build nests or burrows."
+
+We can also put `anu` in a context-phrase, to indicate that the whole sentence is an alternative to something else.  
+`anu la sina ken musi` - "Or you can play."
 
 
 ## a comparative analysis of prepositions
