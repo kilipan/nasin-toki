@@ -3,7 +3,7 @@
 
 In this document I aim to provide a comprehensive grammar of toki pona.
 Since toki pona is a very personal language, this document reflects my own **opinions** and **style decisions**.
-That said, nothing about this `nasin toki` is unusual.
+That said, nothing about this *nasin toki* is unusual.
 If you follow this grammar, you will be well understood by most (if not all) toki pona speakers.
 
 💚 [toki pona](https://www.tokipona.org/) was created by Sonja Lang. My thanks and love, jan Sonja o!  
@@ -11,57 +11,73 @@ If you follow this grammar, you will be well understood by most (if not all) tok
 💚 jan Ke Tami o. kulupu poki o. tonsi Asi o. sina pona a tan toki sona sina
 
 
+## introduction
+The document is roughly divided into three parts.
+
+First, this short introductory chapter will cover some nomenclature and conventions that'll be used throughout the document.
+
+Second, the [basics](https://github.com/kilipan/nasin-toki#basics) chapter will give an overview over grammatical constructions and
+how they are arranged in a sentence, while giving a few example usages for easier digestion.
+
+Third, the [in-depth](https://github.com/kilipan/nasin-toki#in-depth) chapter will cover all `pu` words one-by-one.
+It will start with all the words that have special grammatical functions and then cover the pure content words,
+going over examples, explorations of the semantic possibilities, and interactions with different grammatical structures.
+(The content-word part will remain a work-in-progress for some time.)
+
+
 ## table of contents
 
+- [nasin toki pona](https://github.com/kilipan/nasin-toki#nasin-toki-ponaa-good-way-to-speak)
+    - [how to read](https://github.com/kilipan/nasin-toki#how-to-read-this-grammar)
+    - [general principles](https://github.com/kilipan/nasin-toki#general-principles)
+    - [word types](https://github.com/kilipan/nasin-toki#word-types)
+        - [particles](https://github.com/kilipan/nasin-toki#particles)
+          [pure particles](https://github.com/kilipan/nasin-toki#pure-particles)
+          [emoticle](https://github.com/kilipan/nasin-toki#emoticle)
+        - [pseudo-particles](https://github.com/kilipan/nasin-toki#pseudo-particles)
+        - [content words](https://github.com/kilipan/nasin-toki#content-words):
+          [pronouns](https://github.com/kilipan/nasin-toki#pronouns),
+          [prepositions](https://github.com/kilipan/nasin-toki#prepositions),
+          [preverbs](https://github.com/kilipan/nasin-toki#preverbs)
+          [question word](https://github.com/kilipan/nasin-toki#question-word)
+
 - [basics](https://github.com/kilipan/nasin-toki#basics)
-  - [how to read](https://github.com/kilipan/nasin-toki#how-to-read-this-grammar)
-  - [general principles](https://github.com/kilipan/nasin-toki#general-principles)
-  - [word types](https://github.com/kilipan/nasin-toki#word-types)
-    - [particles](https://github.com/kilipan/nasin-toki#particles)
-      [pure particles](https://github.com/kilipan/nasin-toki#pure-particles)
-      [emoticle](https://github.com/kilipan/nasin-toki#emoticle)
-    - [pseudo-particles](https://github.com/kilipan/nasin-toki#pseudo-particles)
-    - [content words](https://github.com/kilipan/nasin-toki#content-words):
-      [pronouns](https://github.com/kilipan/nasin-toki#pronouns),
-      [prepositions](https://github.com/kilipan/nasin-toki#prepositions),
-      [preverbs](https://github.com/kilipan/nasin-toki#preverbs)
-      [question word](https://github.com/kilipan/nasin-toki#question-word)
-  - [sentence structure](https://github.com/kilipan/nasin-toki#sentence-structure)
-  - [phrases](https://github.com/kilipan/nasin-toki#phrases)
-    - [negation](https://github.com/kilipan/nasin-toki#negation)
-    - [multiple modifiers](https://github.com/kilipan/nasin-toki#multiple-modifiers)
-    - [the particle `pi`](https://github.com/kilipan/nasin-toki#the-particle-pi)
-  - [how to use prepositions](https://github.com/kilipan/nasin-toki#how-to-use-prepositions)
-  - [how to use preverbs](https://github.com/kilipan/nasin-toki#how-to-use-preverbs)
-  - [how to say "and"](https://github.com/kilipan/nasin-toki#how-to-say-and)
-  - [questions](https://github.com/kilipan/nasin-toki#questions):
-    [`X ala X`](https://github.com/kilipan/nasin-toki#x-ala-x),
-    [`anu seme`](https://github.com/kilipan/nasin-toki#anu-seme),
-    [`seme`](https://github.com/kilipan/nasin-toki#seme)
-  - ["relatige clauses"](https://github.com/kilipan/nasin-toki#relatige-clauses)
-  - [ordinals](https://github.com/kilipan/nasin-toki#ordinals)
-  - [comparisons](https://github.com/kilipan/nasin-toki#comparisons)
-  - [transitives](https://github.com/kilipan/nasin-toki#transitives)
+    - [sentence structure](https://github.com/kilipan/nasin-toki#sentence-structure)
+    - [phrases](https://github.com/kilipan/nasin-toki#phrases)
+        - [negation](https://github.com/kilipan/nasin-toki#negation)
+        - [multiple modifiers](https://github.com/kilipan/nasin-toki#multiple-modifiers)
+        - [the particle `pi`](https://github.com/kilipan/nasin-toki#the-particle-pi)
+    - [how to use prepositions](https://github.com/kilipan/nasin-toki#how-to-use-prepositions)
+    - [how to use preverbs](https://github.com/kilipan/nasin-toki#how-to-use-preverbs)
+    - [how to say "and"](https://github.com/kilipan/nasin-toki#how-to-say-and)
+    - [questions](https://github.com/kilipan/nasin-toki#questions):
+      [`X ala X`](https://github.com/kilipan/nasin-toki#x-ala-x),
+      [`anu seme`](https://github.com/kilipan/nasin-toki#anu-seme),
+      [`seme`](https://github.com/kilipan/nasin-toki#seme)
+    - ["relative clauses"](https://github.com/kilipan/nasin-toki#relative-clauses)
+    - [ordinals](https://github.com/kilipan/nasin-toki#ordinals)
+    - [comparisons](https://github.com/kilipan/nasin-toki#comparisons)
+    - [transitives](https://github.com/kilipan/nasin-toki#transitives)
+    - [context](https://github.com/kilipan/nasin-toki#context)
 
 - [in-depth](https://github.com/kilipan/nasin-toki#in-depth)
     - [more info on particles](https://github.com/kilipan/nasin-toki#more-info-on-particles)
-      - [the particle `en`](https://github.com/kilipan/nasin-toki#the-particle-en)
-      - [the particle `li`](https://github.com/kilipan/nasin-toki#the-particle-li)
-      - [the particle `e`](https://github.com/kilipan/nasin-toki#the-particle-e)
-      - [the particle `la`](https://github.com/kilipan/nasin-toki#the-particle-la)
-      - [the particle `pi`](https://github.com/kilipan/nasin-toki#the-particle-pi)
-      - [the particle `o`](https://github.com/kilipan/nasin-toki#the-particle-o)
-      - [the emoticle `a`](https://github.com/kilipan/nasin-toki#the-emoticle-a)
+        - [the particle `en`](https://github.com/kilipan/nasin-toki#the-particle-en)
+        - [the particle `li`](https://github.com/kilipan/nasin-toki#the-particle-li)
+        - [the particle `e`](https://github.com/kilipan/nasin-toki#the-particle-e)
+        - [the particle `la`](https://github.com/kilipan/nasin-toki#the-particle-la)
+        - [the particle `pi`](https://github.com/kilipan/nasin-toki#the-particle-pi-1)
+        - [the particle `o`](https://github.com/kilipan/nasin-toki#the-particle-o)
+        - [the emoticle `a`](https://github.com/kilipan/nasin-toki#the-emoticle-a)
     - [more info on pseudo-particles](https://github.com/kilipan/nasin-toki#more-info-on-particles)
-      - [the pseudo-particle `nanpa`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-nanpa)
-      - [the pseudo-particle `ala`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-ala)
-      - [the pseudo-particle `taso`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-taso)
-      - [the pseudo-particle `anu`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-anu)
+        - [the pseudo-particle `nanpa`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-nanpa)
+        - [the pseudo-particle `ala`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-ala)
+        - [the pseudo-particle `taso`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-taso)
+        - [the pseudo-particle `anu`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-anu)
     - [a comparative analysis of prepositions](https://github.com/kilipan/nasin-toki#a-comparative-analysis-of-prepositions)
-    - [context](https://github.com/kilipan/nasin-toki#context)
+    - [more info on preverbs](https://github.com/kilipan/nasin-toki#more-info-on-preverbs)
+    - [more info on content words](https://github.com/kilipan/nasin-toki#more info on content words)
 
-
-# basics
 
 ## how to read this grammar
 - Throughout this document, I will use
@@ -159,6 +175,9 @@ Unlike all other modification in toki pona, they occur *before* the predicate th
 The *question word* `seme` behaves like a content word from a grammatical point of view.
 Importantly, that means that unlike in various natural languages, it cannot be used as a relative pronoun.
 
+
+
+# basics
 
 ## sentence structure
 A basic toki pona sentence looks like this:
@@ -266,6 +285,7 @@ They are added *before* the predicate they are applied to.
 `X li <preverb> Y [e Z]`
 
 Note that the direct object (here `Z`) relates to the predicate (here `Y`) and *not* to the preverb.
+The individual preverbs are covered in more detail [here](https://github.com/kilipan/nasin-toki#more-info-on-preverbs).
 
 
 ## how to say "and"
@@ -426,6 +446,28 @@ When we use the construction `X li Y e Z` we usually mean one of three things, d
   `mi tomo e waso` - e.g. "We turn the bird into a house." (Maybe it is a very big bird and we can live in its plumage!)
 - The subject applies Y to the object, "X applies Y to Z.".  
   `mi luka e soweli len` - e.g. "I pet the hidden dog.", or "I hit the plush toy."
+
+
+## context
+If you have ever asked a `jan pi toki pona` how to say some word from a natural language,
+you will probably have heard about *context.*
+It is the almighty disambiguator, the thing that condenses the vast semantic fields of our utterance into manageable dimensions.
+It lets us understand whether someone is talking about a fox's burrow, a zoo, or a cat-shaped house.
+
+The context of a sentence encompasses the entire experience the speaker and listener have while communicating.
+In one situation `mi o tawa` means "I should leave.", in another it is "Let's go!".
+
+Beginners often try to express the wildest things in single phrases.
+They stack `pi` upon `pi`, throw in more and more modifiers,
+and end up with an unwieldy construction that is hard to intepret (at best) and even harder to come up with on the fly.
+When context is missing, all the building blocks of the phrase can be misinterpreted.
+This is why we need to *establish* the appropriate context in toki pona, before we can go on to say the things we want to say.
+Instead of throwing all the information about the intended word into one phrase,
+we should describe it in multiple short and easily interpretable sentences.
+
+Getting a feeling for context is something this document cannot teach.
+We need to practice toki pona with other speakers, especially those that have a firm grasp on the language.
+
 
 
 # in-depth
@@ -680,7 +722,7 @@ Since it contains some unusual interpretations, alternative readings are given a
 - `mi tan e ona` - "I make them be the result \[of something unspecified]."[^prepanalysis] **or** "I make them be the reason \[of something unspecified]."
 - `mi kepeken e ona` - "I make them use \[something unspecified]."[^prepanalysis] **or** "I make them be used \[by something unspecified]."
 
-*transitive prep phrases with modified preps as heads*
+*transitive phrases with prepositional predicates*
 - `mi tawa supa e soweli` - "I move the animal towards the table **or** "I surface-move the animal."
 - `mi lon telo e kala` - "I exist the fish (i make the fish exist) in the water."
 - `mi sama jan e akesi` - "I sameify the frog (i make the frog similar) to a person."
@@ -689,25 +731,11 @@ Since it contains some unusual interpretations, alternative readings are given a
 
 [^prepanalysis]: These examples are not according to actual usage.
   They are here for completeness' sake.
-  While they are not necessarily used like this, they serve as good reasons not to use the 'kepeken e' strategy to say "X uses Y".
+  While they are not necessarily used like this, they do serve as good reasons not to use the 'kepeken e' strategy to say "X uses Y".
 
 
-## context
-If you have ever asked a `jan pi toki pona` how to say some word from a natural language,
-you will probably have heard about *context.*
-It is the almighty disambiguator, the thing that condenses the vast semantic fields of our utterance into manageable dimensions.
-It lets us understand whether someone is talking about a fox's burrow, a zoo, or a cat-shaped house.
+## more info on preverbs
+[TODO]
 
-The context of a sentence encompasses the entire experience the speaker and listener have while communicating.
-In one situation `mi o tawa` means "I should leave.", in another it is "Let's go!".
-
-Beginners often try to express the wildest things in single phrases.
-They stack `pi` upon `pi`, throw in more and more modifiers,
-and end up with an unwieldy construction that is hard to intepret (at best) and even harder to come up with on the fly.
-When context is missing, all the building blocks of the phrase can be misinterpreted.
-This is why we need to *establish* the appropriate context in toki pona, before we can go on to say the things we want to say.
-Instead of throwing all the information about the intended word into one phrase,
-we should describe it in multiple short and easily interpretable sentences.
-
-Getting a feeling for context is something this document cannot teach.
-We need to practice toki pona with other speakers, especially those that have a firm grasp on the language.
+## more info on content words
+[TODO]
