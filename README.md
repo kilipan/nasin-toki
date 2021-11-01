@@ -76,7 +76,7 @@ going over examples, explorations of the semantic possibilities, and interaction
         - [the pseudo-particle `anu`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-anu)
     - [a comparative analysis of prepositions](https://github.com/kilipan/nasin-toki#a-comparative-analysis-of-prepositions)
     - [more info on preverbs](https://github.com/kilipan/nasin-toki#more-info-on-preverbs)
-    - [more info on content words](https://github.com/kilipan/nasin-toki#more info on content words)
+    - [more info on content words](https://github.com/kilipan/nasin-toki#more-info-on-content-words)
 
 
 ## how to read this grammar
