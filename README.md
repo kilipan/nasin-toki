@@ -83,12 +83,15 @@ Generally, politeness is assumed per default.
 That doesn't mean you can't tell someone what you are thankful for, though.
 Instead of using empty formulaic ways to thank people, tell them why and how you are thankful, or that they are good!
 
-### no sentence internal recursion
+### no sentence-level recursion
 In many natural languages we can embed whole sentences into other sentences.
+This is what I call sentence-level *recursion* here.
 For example, we do this in English when building relative clauses.
-In the sentence "I see people who walk to the house.", the relative clause is "who walk to the house", which is basically a complete sentence on its own.
-In toki pona, these things are split up into multiple sentences:
-`mi lukin e jan ni: ona li tawa tomo`
+In the sentence "I see people who walk to the house.", the relative clause is "who walk to the house",
+which is basically a complete sentence on its own.
+In toki pona, we cannot embed sentences in other sentences like that.
+Instead, these things are split up into multiple sentences:  
+`mi lukin e jan ni: ona li tawa tomo` - "I look at the person who is going to the house."
 
 ### no single word for "and"
 To say "and", instead repeat the appropriate particle (cf. the [section on how to say "and"](https://github.com/kilipan/nasin-toki#how-to-say-and)).
