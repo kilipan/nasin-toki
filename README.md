@@ -485,7 +485,7 @@ Examples:
 `jan en soweli li sama mute` - "People and animals are very similar."  
 `sina en mi li toki` - "You and I are talking."  
 `tenpo mute la kon en telo li wawa` - "Wind and rain are often powerful."  
-`jan An en jan Pita en ja Sen en jan Ton li lon` - "Ann, Peter, Sam, and Tom are here."
+`jan An en jan Pita en jan Sen en jan Ton li lon` - "Ann, Peter, Sam, and Tom are here."
 
 ### the particle `li`
 The particle `li` is a predicate marker.
@@ -681,7 +681,7 @@ Using `anu` inside of `pi`-phrases should be avoided due to the arising ambiguit
 Examples:  
 `waso anu kala li tawa` - "The bird or the fish moves."  
 `waso li pali anu pakala e tomo` - "Birds build or destroy the nest."  
-`soweli li pali e tomo e lupa` - "Animals build nests or burrows."
+`soweli li pali e tomo anu lupa` - "Animals build nests or burrows."
 
 We can also put `anu` in a context-phrase, to indicate that the whole sentence is an alternative to something else.  
 `anu la sina ken musi` - "Or you can play."
