@@ -756,6 +756,8 @@ of needs of the subject.
 Examples:  
 `ona li wile pana e kili` - "They want to donate the turnip."  
 `jan lili li wile suli` - "The child wants to be an adult."
+`mi wile tawa lon nasin noka` - "I need to walk on the foodpath."
+`soweli suli li wile lape lon tenpo lete` - "Bears need to sleep during the cold season."
 
 #### `sona`
 The preverb `sona` express that the subject knows how to be or do the
