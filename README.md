@@ -735,7 +735,101 @@ Since it contains some unusual interpretations, alternative readings are given a
 
 
 ## more info on preverbs
-[TODO]
+
+### *pu* preverbs
+
+#### `wile`
+The word `wile` covers our expressing things on our complete *hierarchy of
+needs.*[^Seli]
+
+[^Seli]: Thank you jan Seli for the fantastic hierarchy-of-needs explanation!
+
+We can think of everything we might need or want as falling somewhere on this
+hierarchy. In English, we call things that are very high on the hierarchy
+(like e.g eating and sleeping) "needs". Similarly, we call things that are
+rather low on the hierarchy (like e.g. watching another episode of that tv
+series) "wants". The word `wile` covers *the complete hierarchy.*
+
+As a preverb, `wile` marks the following predicate as falling in the hierarchy
+of needs of the subject.
+
+Examples:  
+`ona li wile pana e kili` - "They want to donate the turnip."  
+`jan lili li wile suli` - "The child wants to be an adult."
+
+#### `sona`
+The preverb `sona` express that the subject knows how to be or do the
+predicate.
+
+Examples:  
+`mi sona toki pona` - "I know how to speak simply."  
+`waso li sona pali e tomo` - "Birds know how to build nests."  
+`jan Oto li sona musi.` - "Otto knows how to be funny."
+
+#### `awen`
+Preverb `awen` expresses a continous status, or a continuously/repeatedly
+happening predicate.
+
+Examples:  
+`o awen pali e ijo` - "Keep working on the thing!"  
+`mi awen wile e ni` - "I still want this."  
+`ona li awen weka` - "They remain far away."
+
+#### `kama`
+The preverb `kama` indicates that the predicate became / is becoming / will
+become true. This means that the subject started doing or being something that
+it was previously not or not doing.
+
+Examples:  
+`mi kama sona e toki pona` - "I learnt toki pona." (I didn't know it, and then I came to know it.)  
+`akesi li kama lon nasin telo` - "The crocodile arrived in the river."  
+`tomo li kama suli` - "The house became big." (E.g. when seeing a newly finished house that we only saw when it was much smaller.)
+
+#### `ken`
+The word `ken` expresses the ability to do something. We use it as a preverb to
+show that the subject is able to be or do the predicate, or that it is possible
+that the subject is or does the predicate.
+
+Exampels:  
+`sina ken toki tawa mi` - "You can speak to me."  
+`jan li ken lape lon ma kasi ni` - "People are allowed to sleep in this forest."
+`kala li ken soweli` - "Marine animals can be mammalian."
+
+#### `lukin`
+The preverb `lukin` corresponds to trying, seeking, or looking to be or do
+something.
+
+Examples:  
+`mi lukin pini e lipu ni` - "I am trying to finish this document."  
+`ona li lukin tawa waso` - "They are trying to fly."  
+`mi lukin jo e tomo lili lon ma kasi` - "I am looking to have a small cabin in the woods."
+
+## preverbs in popular usage
+These words are sometimes used as preverbs although they were not defined as
+such in *pu.*
+
+#### `open`
+If we start being or doing something, we can use `open`.
+
+Examples:  
+`ona open seli e noka ona` - "They had started warming their feet."  
+`jan li open pona e ma` - "People will start being good to nature."
+
+#### `pini`
+Analogously, the word `pini` can be used to indicate the we have finished being
+or doing something.
+
+Examples:  
+`mi pini tawa tomo sona` - "I have finished going to school."  
+`soweli li pini jaki e tomo` - "The dog had finished besmirching the house."
+
+#### `alasa`
+Very similar to `lukin`, preverb `alasa` can be used to indicate trying to be
+or do something. Compared to `lukin` it has a more focused and targeted vibe.
+
+Examples:  
+`mi alasa sitelen e lipu pona` - "I am pursuing writing a good document."
+`jan sona li alasa sona e ijo mute` - "The sage chases knowing many things."
 
 ## more info on content words
 [TODO]
