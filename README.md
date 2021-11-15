@@ -118,7 +118,7 @@ All sentences that don't have explicit mentions of the time in other parts (like
 
 
 ## word types
-This sections lists the types of words in toki pona.
+This section lists the types of words in toki pona.
 Some people might analyze certain things differently.
 Importantly, when these word types are mentioned in this document, the corresponding words listed here are what is referred to.
 
