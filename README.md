@@ -30,15 +30,15 @@ going over examples, explorations of the semantic possibilities, and interaction
 - [nasin toki pona](https://github.com/kilipan/nasin-toki#nasin-toki-ponaa-good-way-to-speak)
     - [how to read](https://github.com/kilipan/nasin-toki#how-to-read-this-grammar)
     - [general principles](https://github.com/kilipan/nasin-toki#general-principles)
-    - [word types](https://github.com/kilipan/nasin-toki#word-types)
-        - [particles](https://github.com/kilipan/nasin-toki#particles)
-          [pure particles](https://github.com/kilipan/nasin-toki#pure-particles)
+    - [word types](https://github.com/kilipan/nasin-toki#word-types):
+        - [particles](https://github.com/kilipan/nasin-toki#particles),
+          [pure particles](https://github.com/kilipan/nasin-toki#pure-particles),
           [emoticle](https://github.com/kilipan/nasin-toki#emoticle)
         - [pseudo-particles](https://github.com/kilipan/nasin-toki#pseudo-particles)
         - [content words](https://github.com/kilipan/nasin-toki#content-words):
           [pronouns](https://github.com/kilipan/nasin-toki#pronouns),
           [prepositions](https://github.com/kilipan/nasin-toki#prepositions),
-          [preverbs](https://github.com/kilipan/nasin-toki#preverbs)
+          [preverbs](https://github.com/kilipan/nasin-toki#preverbs),
           [question word](https://github.com/kilipan/nasin-toki#question-word)
 
 - [basics](https://github.com/kilipan/nasin-toki#basics)
@@ -427,7 +427,8 @@ It is easiest to learn by example:
 `tomo mi la tomo sina li loje mute` - "Your house is more red than mine."
 
 Superlatives can be expressed with the ordinal `nanpa wan` ("first"):  
-`pona la toki ni li nanpa wan` - "When it comes to goodness, this language is the best."
+`pona la toki ni li nanpa wan` - "When it comes to goodness, this language is the best."  
+`toki ni li pona nanpa wan` - "This is the best language."
 
 
 ## transitives
