@@ -657,16 +657,20 @@ The word `taso` is similar to `kin` in *where* it can occur.
 Its meaning is different, of course.
 Using it as a modifier, we can indicate that the marked phrase is the "only" thing that the sentences statement applies to.
 Sentence initially, it marks the whole sentence as contrary to some previous statement, like English "but".
-In some contexts, it can even work as a head-noun
+In some contexts, it can even work as a head-noun.
 
-Examples:
-`soweli li ken pona taso` - "Animals can only be good."
+Examples:  
+`soweli li ken pona taso` - "Animals can only be good."  
 `taso ma li sike e suno` - "But, the earth revolves around the sun."
 
 Examples of different placement:  
 `ona taso li pali e lipu` - "Only they write a book."  
 `ona li pali taso e lipu` - "They only write a book."  
-`ona li pali e lipu taso` - "They write only a book."  
+`ona li pali e lipu taso` - "They write only a book."
+
+Examples of head-noun taso:
+`ona li taso` - "They are alone."  
+`mi pilin ike ala tan taso mi` - "I don't feel bad because of being alone."
 
 ### the pseudo-particle `anu`
 Info on the word `anu` has always been notoriously hard to find,
