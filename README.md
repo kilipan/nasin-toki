@@ -232,7 +232,7 @@ Examples:
 `mi pali ala` - "I will not work."  
 `jan ala li lon tomo ni` - "Nobody is in this house."  
 `sina utala ala e waso suli` - "You didn't fight the horse-sized duck."  
-`ilo li tawa e jan ala` - "The tool moves non-persons." (Maybe it's a conveyor belt in a factory.)
+`ilo li tawa e jan ala` - "The tool moves no persons." (Maybe it's a conveyor belt in a factory.)
 
 ### multiple modifiers
 If multiple modifiers are present they all apply to the head of the phrase.
