@@ -8,7 +8,7 @@ If you follow this grammar, you will be well understood by most (if not all) tok
 
 💚 [toki pona](https://www.tokipona.org/) was created by Sonja Lang. My thanks and love, jan Sonja o!  
 💚 I also want to thank the community, especially everyone who took the time to read this and give feedback!  
-💚 jan Ke Tami o. kulupu poki o. tonsi Asi o. sina pona a tan toki sona sina
+💚 jan Ke Tami o. kulupu poki o. tonsi Asi o. jan Seli o. sina pona a tan toki sona sina
 
 
 ## introduction
