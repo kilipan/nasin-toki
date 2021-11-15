@@ -271,6 +271,8 @@ They are either appended to the predicate they modify or come directly after `li
 - `X li Y <prep> Z`
 - `X li <prep> Y`
 
+Importantly, `e` is not used to mark the prepositional objects!
+
 Example:  
 `kasi li suli tan wawa suno` - "The plants are big because of the sun's power."  
 `ona li kepeken ilo` - "They use tools." (lit. "They, using tools.")  
@@ -524,12 +526,12 @@ They are instead marked by prepositions.
 Example: `mi pali lon tomo` - "I work in the room."  
 Note the difference: `mi pali e tomo` - "I build a room."
 
-We also don't use `e` when the prepositional phrase follows `li` directly.
+As above `e` is not used to mark prepositional (indirect) objects, even in sentences where the predicate is left out.
 
 Example: `ona li tawa tomo` - "They go to the house."  
 Note the difference: `ona li tawa e tomo` - "They [physically] move the house."
 
-Finally, `e` can *never* occur inside of phrases, e.g. in the subject.
+Finally, `e` can *never* occur inside of phrases, e.g. in the subject or in a `pi`-phrase.
 
 More examples:  
 `waso li mama e waso lili` - "The bird cares for the chicks."  
@@ -581,7 +583,7 @@ It is used in place of `li` when issuing commands, or describing wishes or desir
 In direct commands to the listener, the subject `sina` can be omitted.  
 `[sina] o tawa pona` - "Drive carefully!"
 
-For wishes and desires, replace `li` by `o`.  
+For wishes, desires, and hopes, replace `li` by `o`. (This is also called *optative* mood.)  
 `ona o lape` - "They should sleep."
 
 Other than `li`, `o` cannot be omitted with `mi` or `sina`.  
@@ -592,6 +594,8 @@ For vocative, `o` can be appended to a phrase to address the thing described by 
 
 Combining vocative and imperative can also be done easily:  
 `jan Su o lape pona` - "Hey Su, sleep well!"
+
+Note that the optative/imperative and vocative are not distinguishable when there's only one subject.
 
 ### the emoticle `a`
 The word `a` can be appended to any word, phrase, or sentence to add emotional emphasis.
