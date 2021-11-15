@@ -433,20 +433,19 @@ Superlatives can be expressed with the ordinal `nanpa wan` ("first"):
 
 ## transitives
 Sometimes, we come across strange constructions in toki pona.
-Things like `mi tomo e waso`[^Ke-Tami] may look confusing at first, but there are some simple strategies to interpret this.
+Things like `mi tomo e waso`[^Ke-Tami] may look confusing at first, but there are simple strategies to interpret this.
 
 [^Ke-Tami]: Thank you for the great example, jan Ke Tami!
 
-When we use the construction `X li Y e Z` we usually mean one of three things, depending on [context](https://github.com/kilipan/nasin-toki#context):
+When we use the construction `X li Y e Z` we usually mean one of twoe things, depending on [context](https://github.com/kilipan/nasin-toki#context):
 
-- The subject causes the object be Y, "X causes Z to be Y.".  
+- The subject causes the object be Y, "X causes Z to be Y.".
   In terms of toki pona, we can restructure this to `X li pali e ni: Z li Y`.  
-  `mi pona e tomo` - e.g. "We cause the room to be good.", or "I repair the house."
-- The subject makes the object an instance of Y, "X makes Z into Y.".  
-  Note how the rephrasing in toki pona leads to the same sentence, `X li pali e ni: Z li Y`.  
+  `mi pona e tomo` - e.g. "We cause the room to be good.", or "I repair the house."  
   `mi tomo e waso` - e.g. "We turn the bird into a house." (Maybe it is a very big bird and we can live in its plumage!)
 - The subject applies Y to the object, "X applies Y to Z.".  
-  `mi luka e soweli len` - e.g. "I pet the hidden dog.", or "I hit the plush toy."
+  `mi luka e soweli len` - e.g. "I pet the hidden dog.", or "I hit the plush toy."  
+  `sina telo e sina` - e.g. "You wash yourselves.", or "You spill water on yourself."
 
 
 ## context
