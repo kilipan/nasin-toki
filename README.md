@@ -8,7 +8,7 @@ If you follow this grammar, you will be well understood by most (if not all) tok
 
 💚 [toki pona](https://www.tokipona.org/) was created by Sonja Lang. My thanks and love, jan Sonja o!  
 💚 I also want to thank the community, especially everyone who took the time to read this and give feedback!  
-💚 jan Ke Tami o. kulupu poki o. tonsi Asi o. jan Seli o. sina pona a tan toki sona sina
+💚 jan Ke Tami o. kulupu poki o. tonsi Asi o. jan Seli o. jan Lilin o. sina pona a tan toki sona sina
 
 
 ## introduction
@@ -238,11 +238,15 @@ Examples:
 If multiple modifiers are present they all apply to the head of the phrase.
 We can simply append additional modifiers.
 Thus, `X Y Z` is an `X` that is related to `Y` and to `Z`.
-The order in which modifiers is not strictly important, but it can be used to highlight those modifiers that are closer to the head.
+Often, the order in which modifiers occur is not very important, apart from slightly changing the focus. An exception is modification with the word `ala`.
 
 Examples:  
 `soweli suli pimeja` - "dark big animal"  
-`jan lawa pona` - "good lead-person"
+`soweli pimeja suli` - "big dark animal"  
+`jan lawa pona` - "good ruling person"  
+`jan pona lawa` - "ruling good person"  
+`tomo ala mute` - "many non-houses"  
+`tomo mute ala` - "not many houses"
 
 ### the particle `pi`
 To modify the head of one phrase with another phrase instead of a single content word, we precede that second phrase with `pi`.
@@ -352,11 +356,13 @@ We can often resolve the ambiguity by restructuring, depending on what is really
 There are three different ways to build a question.
 
 ### `X ala X`
-This construction is used for simple yes-or-no questions: `Y li X ala X`
-It asks the listener whether the sentence `Y li X` is true.  
-To answer an `X ala X` question, we simply repeat the predicate for yes (`X`) or the predicate followed by `ala` for "no" (`X ala`).
-For "no", we can also just say `ala`.
+This construction is used for simple yes-or-no questions: `Y li X ala X`  
+It asks the listener which one of the sentences `Y li X` and `Y li X ala` is true.  
+To answer an `X ala X` question, we simply repeat the predicate (`X`) to say that `Y li X` is true, or the predicate followed by `ala` (`X ala`) to say that `Y li X ala` is true.[^lon-answer]
+For the second case, we can also just say `ala`.
 Of course it is always possible to answer in a full sentence instead.
+
+[^lon-answer]: Some people also answer these kinds of questions with `lon`, meaning "true" or "correct". I advise against doing so, since in the `X ala X` construction it is not clear which of the choices is explicitly asked for.
 
 Example:  
 `soweli loje li moku ala moku e kili` - "Do foxes eat vegetables?"  
