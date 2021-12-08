@@ -40,6 +40,7 @@ going over examples, explorations of the semantic possibilities, and interaction
           [prepositions](https://github.com/kilipan/nasin-toki#prepositions),
           [preverbs](https://github.com/kilipan/nasin-toki#preverbs),
           [question word](https://github.com/kilipan/nasin-toki#question-word)
+        - [loan words](https://github.com/kilipan/nasin-toki#loan-words)
 
 - [basics](https://github.com/kilipan/nasin-toki#basics)
     - [sentence structure](https://github.com/kilipan/nasin-toki#sentence-structure)
@@ -175,6 +176,9 @@ Unlike all other modification in toki pona, they occur *before* the predicate th
 The *question word* `seme` behaves like a content word from a grammatical point of view.
 Importantly, that means that unlike in various natural languages, it cannot be used as a relative pronoun.
 
+### loan words
+All capitalized words are names of things. Grammatically, they are similar to content words, but usually do not occur as a head. 
+
 
 
 # basics
@@ -224,6 +228,10 @@ Example:
 In `tomo waso` ("bird-house"), the word `tomo` is the head while `waso` modifies it.
 We are talking first and foremost about a `tomo`.
 The modifier tells us that the `tomo` is in some way related to the semantic field of `waso`.
+
+We use *loan words* like any other modifier:  
+`ma Kanata li suli` - "The land called Kanada is big."  
+`lipu kulupu Wikipesija li sona mute` - "The community-document Wikipedia knows a lot."
 
 ### negation
 To negate the a phrase, just append the word `ala`.
