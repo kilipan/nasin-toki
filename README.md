@@ -777,8 +777,8 @@ of needs of the subject.
 
 Examples:  
 `ona li wile pana e kili` - "They want to donate the turnip."  
-`jan lili li wile suli` - "The child wants to be an adult."
-`mi wile tawa lon nasin noka` - "I need to walk on the foodpath."
+`jan lili li wile suli` - "The child wants to be an adult."  
+`mi wile tawa lon nasin noka` - "I need to walk on the footpath."  
 `soweli suli li wile lape lon tenpo lete` - "Bears need to sleep during the cold season."
 
 #### `sona`
@@ -816,7 +816,7 @@ that the subject is or does the predicate.
 
 Exampels:  
 `sina ken toki tawa mi` - "You can speak to me."  
-`jan li ken lape lon ma kasi ni` - "People are allowed to sleep in this forest."
+`jan li ken lape lon ma kasi ni` - "People are allowed to sleep in this forest."  
 `kala li ken soweli` - "Marine animals can be mammalian."
 
 #### `lukin`
@@ -852,7 +852,7 @@ Very similar to `lukin`, preverb `alasa` can be used to indicate trying to be
 or do something. Compared to `lukin` it has a more focused and targeted vibe.
 
 Examples:  
-`mi alasa sitelen e lipu pona` - "I am pursuing writing a good document."
+`mi alasa sitelen e lipu pona` - "I am pursuing writing a good document."  
 `jan sona li alasa sona e ijo mute` - "The sage chases knowing many things."
 
 ## more info on content words
