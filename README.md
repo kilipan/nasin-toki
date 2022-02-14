@@ -166,7 +166,7 @@ The *pronouns*, like all content words in toki pona, are *both* singular and plu
 They indicate information about where, whither, whence, how, or whereby the predicate is performed.
 
 #### preverbs
-`wile`, `sona`, `awen`, `kama`, `ken`, `oko`/`lukin`  
+`wile`, `sona`, `awen`, `kama`, `ken`, `lukin`  
 
 The *preverbs* are special words that can change the meaning of the predicate in ways normal modifiers cannot.
 Unlike all other modification in toki pona, they occur *before* the predicate they are applied to.
@@ -869,15 +869,15 @@ Exampels:
 `jan li ken lape lon ma kasi ni` - "People are allowed to sleep in this forest."  
 `kala li ken soweli` - "Marine animals can be mammalian."
 
-#### `oko`/`lukin`
-The preverb `oko`/`lukin` corresponds to trying, seeking, or looking to be or do
+#### `lukin`
+The preverb `lukin` corresponds to trying, seeking, or looking to be or do
 something. Since `oko` and `lukin` are introduced as synonyms in *lipu pu*, we
-can choose whichever we like more.
+can arguably also use `oko` as a preverb. This is rarely done, though.
 
 Examples:  
-`mi oko pini e lipu ni` - "I am trying to finish this document."  
+`mi lukin pini e lipu ni` - "I am trying to finish this document."  
 `ona li lukin tawa waso` - "They are trying to fly."  
-`mi oko jo e tomo lili lon ma kasi` - "I am looking to have a small cabin in the woods."
+`mi oko jo e tomo lili lon ma kasi` - "I am trying to have a small cabin in the woods."
 
 
 ## other preverbs
@@ -903,8 +903,8 @@ Examples:
 `soweli li pini jaki e tomo` - "The dog had finished besmirching the house." OR "The dog had disgustingly ended the house."
 
 #### `alasa`
-Very similar to `oko`/`lukin`, preverb `alasa` can be used to indicate trying to be
-or do something. Compared to `oko`/`lukin` it is sometimes said to have a more
+Very similar to `lukin`, preverb `alasa` can be used to indicate trying to be
+or do something. Compared to `lukin` it is sometimes said to have a more
 focused and targeted vibe. Introducing this kind of distinction into the
 simplistic toki pona is sometimes viewed as questionable.
 
