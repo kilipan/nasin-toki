@@ -461,11 +461,11 @@ Superlatives can be expressed with the ordinal `nanpa wan` ("first"):
 
 ## transitives
 Sometimes, we come across strange constructions in toki pona.
-Things like `mi tomo e waso`[^Ke-Tami] may look confusing at first, but there are simple strategies to interpret this.
+Things like `mi tomo e waso`[^ke-tami] may look confusing at first, but there are simple strategies to interpret this.
 
-[^Ke-Tami]: Thank you for the great example, jan Ke Tami!
+[^ke-tami]: Thank you for the great example, jan Ke Tami!
 
-When we use the construction `X li Y e Z` we usually mean one of twoe things, depending on [context](https://github.com/kilipan/nasin-toki#context):
+When we use the construction `X li Y e Z` we usually mean one of two things, depending on [context](https://github.com/kilipan/nasin-toki#context):
 
 - The subject causes the object be Y, "X causes Z to be Y.".
   In terms of toki pona, we can restructure this to `X li pali e ni: Z li Y`.  
@@ -473,6 +473,7 @@ When we use the construction `X li Y e Z` we usually mean one of twoe things, de
   `mi tomo e waso` - e.g. "We turn the bird into a house." (Maybe it is a very big bird and we can live in its plumage!)
 - The subject applies Y to the object, "X applies Y to Z.".  
   `mi luka e soweli len` - e.g. "I pet the hidden dog.", or "I hit the plush toy."  
+  `mi tomo e waso` - e.g. "I apply the house to a bird, i.e. I put the bird into the house"  
   `sina telo e sina` - e.g. "You wash yourselves.", or "You spill water on yourself."
 
 
