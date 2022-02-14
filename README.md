@@ -790,15 +790,15 @@ given as well in some cases.
 ### *pu* preverbs
 
 #### `wile`
-The word `wile` covers our expressing things on our complete *hierarchy of
+The word `wile` can be used for expressing things on our complete *hierarchy of
 needs.*[^Seli]
 
 [^Seli]: Thank you jan Seli for the fantastic hierarchy-of-needs explanation!
 
 We can think of everything we might need or want as falling somewhere on this
-hierarchy. In English, we call things that are very high on the hierarchy
+hierarchy. In English, we call things that are very low in the hierarchy
 (like e.g eating and sleeping) "needs". Similarly, we call things that are
-rather low on the hierarchy (like e.g. watching another episode of that tv
+rather high in the hierarchy (like e.g. watching another episode of that tv
 series) "wants". The word `wile` covers *the complete hierarchy.*
 
 As a preverb, `wile` marks the following predicate as falling in the hierarchy
@@ -807,7 +807,7 @@ of needs of the subject.
 Examples:  
 `ona li wile pana e kili` - "They want to donate the turnip."  
 `jan lili li wile suli` - "The child wants to be an adult."
-`mi wile tawa lon nasin noka` - "I need to walk on the foodpath."
+`mi wile tawa lon nasin noka` - "I need to walk on the footpath."
 `soweli suli li wile lape lon tenpo lete` - "Bears need to sleep during the cold season."
 
 #### `sona`
