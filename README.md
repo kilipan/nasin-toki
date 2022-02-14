@@ -62,6 +62,7 @@ going over examples, explorations of the semantic possibilities, and interaction
     - [context](https://github.com/kilipan/nasin-toki#context)
 
 - [in-depth](https://github.com/kilipan/nasin-toki#in-depth)
+    - [more info on sentence structure](https://github.com/kilipan/nasin-toki#more-info-on-sentence-structure)
     - [more info on particles](https://github.com/kilipan/nasin-toki#more-info-on-particles)
         - [the particle `en`](https://github.com/kilipan/nasin-toki#the-particle-en)
         - [the particle `li`](https://github.com/kilipan/nasin-toki#the-particle-li)
@@ -489,6 +490,25 @@ We need to practice toki pona with other speakers, especially those that have a 
 
 # in-depth
 This section provides more detailed info on how to use and not to use specific words and constructions.
+
+## more info on sentence structure
+A more complete sentence structure of toki pona is given here. Note again that if
+the subject is *only* `mi` or *only* `sina`, then you need to leave out the
+first `li` of that sentence, which is not explicitly marked below.
+
+`[(A|<sentence>) la]* B [en C]* {li [<preverb>]* D [e F]* [<prep> G]*}+`
+
+- `<sentence>` stands for any well-formed sentence here  
+- `(X|Y)` stands for "pick either `X` or `Y`"
+- The asterisk (`*`) means that an object of the same form as the preceding one
+may occur any number of times (including zero)  
+- The plus sign (`+`) means that an object of the same form as the preceding one
+may occur any number of times (excluding zero)
+
+Note that in general, sentences are **much (!)** more simple and don't use a
+lot of this potential complexity. If we find ourselves writing long and complex
+sentences, we should consider splitting the thought up a bit more.
+
 
 ## more info on particles
 
