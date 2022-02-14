@@ -507,10 +507,10 @@ A more complete sentence structure of toki pona is given here. Note again that i
 the subject is *only* `mi` or *only* `sina`, then you need to leave out the
 first `li` of that sentence, which is not explicitly marked below.
 
-`[(A|<sentence>) la]* B [en C]* {li [<preverb>]* D [e F]* [<prep> G]*}+`
+`[(A|<prep> A|<sentence>) la]* B [en C]* {li [<preverb>]* D [e F]* [<prep> G]*}+`
 
 - `<sentence>` stands for any well-formed sentence here  
-- `(X|Y)` stands for "pick either `X` or `Y`"
+- `(X|Y|Z)` stands for "pick either `X`, `Y`, or `Z`"
 - The asterisk (`*`) means that an object of the same form as the preceding one
 may occur any number of times (including zero)  
 - The plus sign (`+`) means that an object of the same form as the preceding one
