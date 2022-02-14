@@ -323,12 +323,16 @@ To say that a subject `X` is doing two things, `Y` and `Z` we just repeat the pr
 
 `X li Y li Z`
 
-If the subject is `mi` or `sina`, we just leave out the first `li` as usual, but still use it for any following predicates.[^pu-note-mi-sina]
+If the subject is `mi` or `sina`, we have no `li` to repeat, so in that case, we simply start a new sentence.[^extended-li-note]
 
-[^pu-note-mi-sina]: In *pu*, this is disallowed.
-  Instead, it suggests starting a new sentence for each predicate: `mi X. mi Y. mi Z.`
+[^extended-li-note]: In *lipu pu*, this is the only way to have multiple
+  predicates with `mi` and `sina`, but some people also add new predicates with
+  `li` If the subject is `mi` or `sina`, they just leave out the first `li` as
+  usual, but still use it for any following predicates: `mi X li Y li Z`. This
+  leads to new ambiguities and I personally recommend going with the
+  *pu*-style.
 
-`mi X li Y li Z`
+`mi X. mi Y. mi Z`
 
 #### multiple direct objects
 To add multiple objects, just repeat the particle `e`.
