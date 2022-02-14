@@ -70,6 +70,7 @@ going over examples, explorations of the semantic possibilities, and interaction
         - [the particle `pi`](https://github.com/kilipan/nasin-toki#the-particle-pi-1)
         - [the particle `o`](https://github.com/kilipan/nasin-toki#the-particle-o)
         - [the emoticle `a`](https://github.com/kilipan/nasin-toki#the-emoticle-a)
+    - [more info on `ni`](https://github.com/kilipan/nasin-toki#more-info-on-ni)
     - [more info on pseudo-particles](https://github.com/kilipan/nasin-toki#more-info-on-particles)
         - [the pseudo-particle `nanpa`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-nanpa)
         - [the pseudo-particle `ala`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-ala)
@@ -622,6 +623,13 @@ Examples:
 `ni li musi a tawa mi` - "This is so fun!"
 
 
+## more info on `ni`
+`ni` can mean any of the following in the right context:
+- "this/that/these/those"  
+- as a modifier, in addition to the above: "related to this/that/these/those", "in this/that/these/those way(s)"  
+- as a predicate: "to do this/that/these/those", "to be this/that/these/those"
+
+
 ## more info on pseudo-particles
 
 ### the pseudo-particle `nanpa`
@@ -710,8 +718,9 @@ We can also put `anu` in a context-phrase, to indicate that the whole sentence i
 
 
 ## a comparative analysis of prepositions
-This section provides a comparative analysis of how prepositions work in toki pona.
-Since it contains some unusual interpretations, alternative readings are given as well.
+This section provides a comparative analysis of how prepositions work in toki
+pona. Since it contains some unusual interpretations, alternative readings are
+given as well in some cases.
 
 *idea*  
 `X li Y e Z` ≈ `X li pali e ni: Z li Y`
@@ -751,9 +760,9 @@ Since it contains some unusual interpretations, alternative readings are given a
 - `mi tan utala e ona` - "I make them be the result of conflict."[^prepanalysis] **or**
 - `mi kepeken ilo e ona` - "I make them use a tool."[^prepanalysis]
 
-[^prepanalysis]: These examples are not according to actual usage.
-  They are here for completeness' sake.
-  While they are not necessarily used like this, they do serve as good reasons not to use the 'kepeken e' strategy to say "X uses Y".
+[^prepanalysis]: These examples are here for completeness' sake. While they are
+  not necessarily used like this by many, they do serve as good reasons not to
+  use the 'kepeken e' strategy to say "X uses Y".
 
 
 ## more info on preverbs
@@ -819,40 +828,47 @@ Exampels:
 `jan li ken lape lon ma kasi ni` - "People are allowed to sleep in this forest."
 `kala li ken soweli` - "Marine animals can be mammalian."
 
-#### `lukin`
-The preverb `lukin` corresponds to trying, seeking, or looking to be or do
-something.
+#### `oko`/`lukin`
+The preverb `oko`/`lukin` corresponds to trying, seeking, or looking to be or do
+something. Since `oko` and `lukin` are introduced as synonyms in *lipu pu*, we
+can choose whichever we like more.
 
 Examples:  
-`mi lukin pini e lipu ni` - "I am trying to finish this document."  
+`mi oko pini e lipu ni` - "I am trying to finish this document."  
 `ona li lukin tawa waso` - "They are trying to fly."  
-`mi lukin jo e tomo lili lon ma kasi` - "I am looking to have a small cabin in the woods."
+`mi oko jo e tomo lili lon ma kasi` - "I am looking to have a small cabin in the woods."
 
-## preverbs in popular usage
+
+## other preverbs
 These words are sometimes used as preverbs although they were not defined as
-such in *pu.*
+such in *lipu pu.* I personally recommend not using them, since there are very
+easy work-arounds and every additional preverb makes the grammar more
+ambiguous.
 
 #### `open`
-If we start being or doing something, we can use `open`.
+Used for starting being or doing something, `open` preverb introduces new
+ambiguities into the grammar.
 
 Examples:  
-`ona open seli e noka ona` - "They had started warming their feet."  
-`jan li open pona e ma` - "People will start being good to nature."
+`ona li open pakala e lupa tomo` - "They had started breaking the door." OR "They accidentally opened the door."  
+`jan li open pona e ma` - "People will start being good to nature." OR "People open-up well the land." (e.g. to dig a hole)
 
 #### `pini`
-Analogously, the word `pini` can be used to indicate the we have finished being
-or doing something.
+Analogously, the word `pini`, when used to indicate the we have finished being
+or doing something, introduces similar ambiguities.
 
 Examples:  
-`mi pini tawa tomo sona` - "I have finished going to school."  
-`soweli li pini jaki e tomo` - "The dog had finished besmirching the house."
+`mi pini tawa tomo sona` - "I have finished going to school." OR "I am done from the perspective of the school."  
+`soweli li pini jaki e tomo` - "The dog had finished besmirching the house." OR "The dog had disgustingly ended the house."
 
 #### `alasa`
-Very similar to `lukin`, preverb `alasa` can be used to indicate trying to be
-or do something. Compared to `lukin` it has a more focused and targeted vibe.
+Very similar to `oko`/`lukin`, preverb `alasa` can be used to indicate trying to be
+or do something. Compared to `oko`/`lukin` it is sometimes said to have a more
+focused and targeted vibe. Introducing this kind of distinction into the
+simplistic toki pona is sometimes viewed as questionable.
 
 Examples:  
-`mi alasa sitelen e lipu pona` - "I am pursuing writing a good document."
+`mi alasa sitelen e lipu pona` - "I am pursuing writing a good document." OR "
 `jan sona li alasa sona e ijo mute` - "The sage chases knowing many things."
 
 ## more info on content words
