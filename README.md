@@ -218,12 +218,17 @@ Example:
 
 
 ## phrases
-Since toki pona has a very minimalist lexicon, all the content words cover broad semantic fields.
+Since toki pona has a very minimalist lexicon, all the content words cover
+broad semantic fields.
 To specify what we are talking about, we can build multi-word *phrases*.  
-In general, a phrase consists of a main content word, the **head**, and zero or more additional content words, the **modifier(s)**.
+In general, a phrase consists of a main content word, the **head**, and zero or
+more additional content words, the **modifier(s)**.
 
-The head is the main thing we are talking about, while the modifiers further specify the head's (usually very broad) semantic field.
-We can always remove any modifiers from a given phrase without changing that it *could* refer to the same thing as before, but it becomes less specific by doing so.
+The head is the main thing we are talking about, while the modifiers further
+specify the head's (usually very broad) semantic field. We can always remove
+any modifiers from a given phrase without changing that it *could* refer to the
+same thing as before, but it becomes less specific by doing so. (Exception:
+modification with `ala`, see below.)
 
 Example:  
 In `tomo waso` ("bird-house"), the word `tomo` is the head while `waso` modifies it.
@@ -232,10 +237,10 @@ The modifier tells us that the `tomo` is in some way related to the semantic fie
 
 We use *loan words* like any other modifier:  
 `ma Kanata li suli` - "The land called Kanada is big."  
-`lipu kulupu Wikipesija li sona mute` - "The community-document Wikipedia knows a lot."
+`lipu kulupu Wikipesija li sona e ijo mute` - "The community-document Wikipedia knows a lot of things."
 
 ### negation
-To negate the a phrase, just append the word `ala`.
+To negate a phrase, just append the word `ala`.
 
 Examples:  
 `mi pali ala` - "I will not work."  
