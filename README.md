@@ -166,8 +166,7 @@ The *pronouns*, like all content words in toki pona, are *both* singular and plu
 They indicate information about where, whither, whence, how, or whereby the predicate is performed.
 
 #### preverbs
-(pu) `wile`, `sona`, `awen`, `kama`, `ken`, `lukin`  
-(popular usage) `open`, `pini`, `alasa`
+(pu) `wile`, `sona`, `awen`, `kama`, `ken`, `oko`/`lukin`  
 
 The *preverbs* are special words that can change the meaning of the predicate in ways normal modifiers cannot.
 Unlike all other modification in toki pona, they occur *before* the predicate they are applied to.
