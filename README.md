@@ -371,7 +371,9 @@ We can often resolve the ambiguity by restructuring, depending on what is really
 
 
 ## questions
-There are three different ways to build a question.
+There are three different ways to build a question. Note that since all of them
+unambiguously mark the sentence as a question, we have no need for a question
+mark in toki pona.
 
 ### `X ala X`
 This construction is used for simple yes-or-no questions: `Y li X ala X`  
