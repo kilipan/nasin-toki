@@ -538,18 +538,20 @@ Examples:
 ### the particle `li`
 The particle `li` is a predicate marker.
 Like all particles, it does not have any semantic meaning.  
-It is only omitted if the subject is *exactly* and *only* "mi", or *exactly* and *only* "sina".  
-Thus, we say `mi pali` since the subject is `mi`,
-but neither in `pali mi li pona` (subject: `pali mi`) nor in `mi taso li lon tomo` (subject: `mi taso`) can `li` be omitted.
+It is only omitted if the subject is *exactly* and *only* `mi`, or *exactly*
+and *only* `sina`.  Thus, we say `mi pali` since the subject is `mi`,
+but neither in `pali mi li pona` (subject: `pali mi`) nor in `mi taso li lon
+tomo` (subject: `mi taso`) nor in `sina en mi li toki` (subject: `sina en mi`)
+can `li` be omitted.
 
-If we want to add more than one predicate to a sentence that start with `mi` or `sina`, we can still do that by using `li`.
+If we want to add more than one predicate to a sentence that starts with `mi` or `sina`, we can instead just start a new sentence.
 
 Often, we can tell from a missing `li` that an utterance is not a complete sentence.
 This is of course only true if the subject is not `mi` or `sina` and if `li` is not replaced by `o` (see below).
 
 Examples:  
 `soweli li suwi` - "The animal is cute."  
-`mi kama li lukin li anpa` - "I came, saw, and conquered."  
+`mi kama. mi oko. mi anpa` - "I came, saw, and conquered."  
 `ona li pali mute li lape lili` - "They work a lot and sleep a bit."
 
 ### the particle `e`
@@ -607,7 +609,8 @@ It is never used for single-word modifiers.
 Like all particles, it does not have any semantic meaning.
 
 By default, modifiers are applied from left to right to the head.
-If a `pi` is added, everything that follows pi becomes its own phrase, that in turn modifes the head preceding the `pi` as one.
+If a `pi` is added, everything that follows this `pi` becomes its own phrase,
+that in turn modifes the head preceding the `pi` as one.
 
 Examples:  
 `jan lawa mute` - "many head-people" (e.g. "many leaders")  
@@ -650,7 +653,7 @@ It can also be used on its own to express utterances like "ah!", "oh!", "wow!", 
 Examples:  
 `pona a` - "So good!"  
 `ike a` - "Oh dang!"  
-`o lukin e pali mi a` - "Look at my work!" \[e.g. implying pride or sadness, depending on context]
+`o lukin e pali mi a` - "Look at my work!" \[e.g. implying pride or sadness, depending on context]  
 `ni li musi a tawa mi` - "This is so fun!"
 
 
@@ -659,6 +662,12 @@ Examples:
 - "this/that/these/those"  
 - as a modifier, in addition to the above: "related to this/that/these/those", "in this/that/these/those way(s)"  
 - as a predicate: "to do this/that/these/those", "to be this/that/these/those"
+
+Examples:  
+`ni li pona` - "That is peaceful."  
+`ona li oko e ni` - "They look at this."  
+`tomo li suwi. jan li ni kin` - "The house is cute. The person also is."  
+`soweli li len e kili lon ma. ona li ni tan tenpo lete` - "The squirrel hides some nuts in the ground. It does this because of winter."
 
 
 ## more info on pseudo-particles
@@ -693,11 +702,12 @@ Examples:
 `kin la ma li sike e suno` - "Furthermore, the earth revolves around the sun."
 
 Examples of different placement:  
-`ona kin li pali e lipu` - "They write a book, too [among other writers of books]."  
-`ona li pali kin e lipu` - "They write a book, too [among other things being done to the book]."  
-`ona li pali e lipu kin` - "They write a book, too [among other things being created]."  
-Note that these sentences can all be translated the same in English.
-While they have slightly different focus, interpreting this too strictly is not advisable.
+`ona kin li pali e lipu` - "*They write* a book, too [among other writers of books]."  
+`ona li pali kin e lipu` - "They *write* a book, too [among other things being done to the book]."  
+`ona li pali e lipu kin` - "They write a *book*, too [among other things being created]."  
+Note that these sentences can all be translated the same in English,
+potentially with differences in stress. While they have slightly different
+focus, interpreting this too strictly is not advisable.
 
 ### the pseudo-particle `ala`
 As we've seen in the section on [negation](https://github.com/kilipan/nasin-toki#negation),
@@ -725,7 +735,7 @@ Examples of different placement:
 `ona li pali taso e lipu` - "They only write a book."  
 `ona li pali e lipu taso` - "They write only a book."
 
-Examples of head-noun taso:
+Examples of head-noun taso:  
 `ona li taso` - "They are alone."  
 `mi pilin ike ala tan taso mi` - "I don't feel bad because of being alone."
 
@@ -775,7 +785,7 @@ given as well in some cases.
 - `mi lon telo` - "I, in the water." ("I am in the water.")
 - `mi sama ona` - "I, like them." ("I am like them.")
 - `mi tan ma Apese` - "I, from Abc-land." ("I am from Abc-land.")
-- `mi kepeken ilo` - "I, using tools." ("I use tools.")
+- `mi kepeken ilo` - "I, using tools." ("I do something by means of tools.")
 
 *transitive phrases with content-word versions of the prepositions*
 - `mi tawa e soweli` - "I move the animal \[towards an unspecified location]."
@@ -788,7 +798,7 @@ given as well in some cases.
 - `mi tawa supa e soweli` - "I move the animal towards the table **or** "I surface-move the animal."
 - `mi lon telo e kala` - "I exist the fish (i make the fish exist) in the water."
 - `mi sama jan e akesi` - "I sameify the frog (i make the frog similar) to a person."
-- `mi tan utala e ona` - "I make them be the result of conflict."[^prepanalysis] **or**
+- `mi tan utala e ona` - "I make them be the result of conflict."[^prepanalysis]
 - `mi kepeken ilo e ona` - "I make them use a tool."[^prepanalysis]
 
 [^prepanalysis]: These examples are here for completeness' sake. While they are
@@ -822,7 +832,7 @@ Examples:
 `soweli suli li wile lape lon tenpo lete` - "Bears need to sleep during the cold season."
 
 #### `sona`
-The preverb `sona` express that the subject knows how to be or do the
+The preverb `sona` expresses that the subject knows how to be or do the
 predicate.
 
 Examples:  
@@ -856,7 +866,7 @@ that the subject is or does the predicate.
 
 Exampels:  
 `sina ken toki tawa mi` - "You can speak to me."  
-`jan li ken lape lon ma kasi ni` - "People are allowed to sleep in this forest."
+`jan li ken lape lon ma kasi ni` - "People are allowed to sleep in this forest."  
 `kala li ken soweli` - "Marine animals can be mammalian."
 
 #### `oko`/`lukin`
