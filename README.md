@@ -164,6 +164,7 @@ The *pronouns*, like all content words in toki pona, are *both* singular and plu
 
 *Prepositions* are used to further describe the manner of the predicate.
 They indicate information about where, whither, whence, how, or whereby the predicate is performed.
+They can also occur without a preceding predicate and turn into a predicate themselves, describing the actions of the subject instead.
 
 #### preverbs
 `wile`, `sona`, `awen`, `kama`, `ken`, `lukin`  
@@ -285,17 +286,20 @@ As such, we can use the prepositions as content words in phrases.
 ## how to use prepositions
 [Prepositions](https://github.com/kilipan/nasin-toki#prepositions) are generally used to mark different kinds of indirect objects.
 They can be used in two ways.
-They are either appended to the predicate they modify or come directly after `li` in predicate-less sentences.  
-- `X li Y <prep> Z`
-- `X li <prep> Y`
+They are either appended to the predicate they modify or come directly after `li` and become the predicate themselves.  
+- `X li Y <prep> Z`: the prepositional phrase describes the predicate `Y`  
+- `X li <prep> Y`: the prepositional predicate describes the subject `X`'s action or state
 
 Importantly, `e` is not used to mark the prepositional objects!
 
 Example:  
 `kasi li suli tan wawa suno` - "The plants are big because of the sun's power."  
-`ona li kepeken ilo` - "They use tools." (lit. "They, using tools.")  
-`mi sama sina` - "I am like you." (lit. "I, like you.")  
-Note that while these last two literal constuctions are not valid in English, they are so in other languages such as Russian and toki pona.
+`mi sama sina` - "I am like you."  
+`ona li kepeken ilo` - "They use tools."  
+Note that these last two constructions may seem strange at first. In the `sama` sentence the English copula "to be" has no equivalent.
+This is because toki pona simply doesn't have a copular content word.  
+In the `kepeken` sentence, the (seemingly direct) object is not marked with `e`. The resolution: `kepeken` is a word that does not exist in English.
+It's *indirect* object is the thing that's being used (to achieve something), not its direct object, like would be the case for the English verb "to use".
 
 
 ## how to use preverbs
@@ -323,6 +327,8 @@ To say that a subject `X` is doing two things, `Y` and `Z` we just repeat the pr
 
 `X li Y li Z`
 
+Note that `X` and `Y` here may also be prepositional predicates.
+
 If the subject is `mi` or `sina`, we have no `li` to repeat, so in that case, we simply start a new sentence.[^extended-li-note]
 
 [^extended-li-note]: In *lipu pu*, this is the only way to have multiple
@@ -347,12 +353,12 @@ We can also add multiple prepositional phrases to a sentence.
 Here are some examples of how to say or not say "and" in prepositional contexts:  
 `waso li musi kepeken wawa kepeken kon` - "Birds play using power and air."  
 `jan Pin li sama jan Po li sama jan Kiko.` - "Finn is like Bob and like Rico." (Note the additional `li`.)  
-`jan Pin li sama jan Po sama jan Kiko.` - "Finn, like Rico, is like Bob.", but arguably also "Finn is like Bob and like Rico.".  
-To reduce ambiguity we should always add the second `li` in case the first version is intended.
+`jan Pin li sama jan Po sama jan Kiko.` - "Finn, like Rico, is like Bob."    
+Note the difference between these last two examples! In the second version without the additional `li`, the second `sama` is a prepositional phrase describing the (prepositional) predicate.
 
 #### in `pi`-phrases
 While the general principle suggests that all pi-phrases should simply apply to the overall head of the phrase,
-context can often indicate that instead the internal `pi` relates to the head of the external `pi`-phrase instead.
+context can often indicate that instead, the internal `pi` relates to the head of the external `pi`-phrase instead.
 
 In general, we should avoid using multiple `pi` inside of one big phrase,
 because shorter phrases are easier to parse and less grammatically ambiguous.
