@@ -881,33 +881,39 @@ Examples:
 `mi oko jo e tomo lili lon ma kasi` - "I am trying to have a small cabin in the woods."
 
 
-## other preverbs
+## other "preverbs"
 These words are sometimes used as preverbs although they were not defined as
-such in *lipu pu.* I personally recommend not using them, since there are very
-easy work-arounds and every additional preverb makes the grammar more
-ambiguous.
+such in *lipu pu.* Many speakers don't use them and I personally also recommend against it.
+There are very easy work-arounds for contextually saying the same thing, compare the alternative (non-exhaustive!) versions marked "some pu options".
+Every additional preverb makes the grammar more ambiguous, compare the default non-preverb readings given for comparison (after "OR").
 
 #### `open`
 Used for starting being or doing something, `open` preverb introduces new
 ambiguities into the grammar.
 
 Examples:  
-`ona li open pakala e lupa tomo` - "They had started breaking the door." OR "They accidentally opened the door."  
-`jan li open pona e ma` - "People will start being good to nature." OR "People open-up well the land." (e.g. to dig a hole)
-
+`ona li open pakala e lupa tomo` - "They start breaking the door." OR "They accidentally open the door."  
+some pu options: `ona li open e pakala pi lupa tomo` or `ona li lukin pakala e lupa tomo`  
+`jan li open pona e ma` - "People will start being good to nature." OR "People open-up well the land." (e.g. to dig a hole)  
+some pu options: `pona ma la jan li open` or `jan li kama pona e ma`
+ 
 #### `pini`
-Analogously, the word `pini`, when used to indicate the we have finished being
+Analogously, the word `pini`, when used to indicate that we have finished being
 or doing something, introduces similar ambiguities.
 
 Examples:  
 `mi pini tawa tomo sona` - "I have finished going to school." OR "I am done from the perspective of the school."  
-`soweli li pini jaki e tomo` - "The dog had finished besmirching the house." OR "The dog had disgustingly ended the house."
+some pu options: `mi awen ala tawa tomo sona` or `mi kama lon tomo sona`  
+`soweli li pini jaki e tomo` - "The dog had finished besmirching the house." OR "The dog had disgustingly ended the house."  
+some pu options: `tomo li kama jaki tan soweli` or simply `soweli li jaki e tomo`
+
 
 #### `alasa`
 Very similar to `lukin`, preverb `alasa` can be used to indicate trying to be
 or do something. Compared to `lukin` it is sometimes said to have a more
 focused and targeted vibe. Introducing this kind of distinction into the
-simplistic toki pona is sometimes viewed as questionable.
+simplistic toki pona seems questionable.  
+For the recommended pu option, simply replace `alasa` with `lukin` here.
 
 Examples:  
 `mi alasa sitelen e lipu pona` - "I am pursuing writing a good document." OR "I document-scavenge the good books."  
