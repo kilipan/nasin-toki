@@ -766,8 +766,7 @@ We can also put `anu` in a context-phrase, to indicate that the whole sentence i
 
 ## a comparative analysis of prepositions
 This section provides a comparative analysis of how prepositions work in toki
-pona. Since it contains some unusual interpretations, alternative readings are
-given as well in some cases.
+pona. Be aware that the fifth block contains some unusual constructions that not everyone would understand.
 
 *idea*  
 `X li Y e Z` ≈ `X li pali e ni: Z li Y`
@@ -787,29 +786,25 @@ given as well in some cases.
 - `mi toki kepeken kalama` - "I speak by means of sound."
 
 *prepositional phrases without predicates*
-- `mi tawa tomo` - "I, towards the house." ("I go to the house.")
-- `mi lon telo` - "I, in the water." ("I am in the water.")
-- `mi sama ona` - "I, like them." ("I am like them.")
-- `mi tan ma Apese` - "I, from Abc-land." ("I am from Abc-land.")
-- `mi kepeken ilo` - "I, using tools." ("I do something by means of tools.")
+- `mi tawa tomo` - "I go to the house."
+- `mi lon telo` - "I am in the water."
+- `mi sama ona` - "I am like them."
+- `mi tan ma Apese` - "I am from Abc-land."
+- `mi kepeken ilo` - "I do something by means of tools."
 
 *transitive phrases with content-word versions of the prepositions*
 - `mi tawa e soweli` - "I move the animal \[towards an unspecified location]."
 - `mi lon e kala` - "I exist the fish (i make the fish exist) \[in an unspecified location/time/way]."
 - `mi sama e akesi` - "I sameify the frog (i make the frog similar) \[to sth unspecified]."
-- `mi tan e ona` - "I make them be the result \[of something unspecified]."[^prepanalysis] **or** "I make them be the reason \[of something unspecified]."
-- `mi kepeken e ona` - "I make them use \[something unspecified]."[^prepanalysis] **or** "I make them be used \[by something unspecified]."
+- `mi tan e ona` - "I make them be the result \[of something unspecified]."
+- `mi kepeken e ona` - "I make them use \[something unspecified]."
 
-*transitive phrases with prepositional predicates*
+*transitive phrases with prepositional predicates* (unusual!)
 - `mi tawa supa e soweli` - "I move the animal towards the table **or** "I surface-move the animal."
 - `mi lon telo e kala` - "I exist the fish (i make the fish exist) in the water."
 - `mi sama jan e akesi` - "I sameify the frog (i make the frog similar) to a person."
-- `mi tan utala e ona` - "I make them be the result of conflict."[^prepanalysis]
-- `mi kepeken ilo e ona` - "I make them use a tool."[^prepanalysis]
-
-[^prepanalysis]: These examples are here for completeness' sake. While they are
-  not necessarily used like this by many, they do serve as good reasons not to
-  use the 'kepeken e' strategy to say "X uses Y".
+- `mi tan utala e ona` - "I make them be the result of conflict."
+- `mi kepeken ilo e ona` - "I make them use a tool."
 
 
 ## more info on preverbs
@@ -915,8 +910,8 @@ focused and targeted vibe. Introducing this kind of distinction into the
 simplistic toki pona is sometimes viewed as questionable.
 
 Examples:  
-`mi alasa sitelen e lipu pona` - "I am pursuing writing a good document." OR "
-`jan sona li alasa sona e ijo mute` - "The sage chases knowing many things."
+`mi alasa sitelen e lipu pona` - "I am pursuing writing a good document." OR "I document-scavenge the good books."  
+`jan sona li alasa sona e ijo mute` - "The sage tries to know many things." OR "The sage wisely hunts many things."
 
 ## more info on content words
 [TODO]
