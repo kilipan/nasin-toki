@@ -301,6 +301,13 @@ This is because toki pona simply doesn't have a copular content word.
 In the `kepeken` sentence, the (seemingly direct) object is not marked with `e`. The resolution: `kepeken` is a word that does not exist in English.
 It's *indirect* object is the thing that's being used (to achieve something), not its direct object, like would be the case for the English verb "to use".
 
+### negation of prepositions
+Usually, prepositions cannot be modified when used in their grammatical function. We can follow them with the particle `ala`, though.
+This negates the preposition.
+
+`mi lon ala tomo` - "I am not in the house."  
+`soweli li tawa ala kasi` - "The naked mole rat does not move to the eggplant."
+
 
 ## how to use preverbs
 The [preverbs](https://github.com/kilipan/nasin-toki#preverbs) are used to change the semantic field in ways that simple modifiers cannot.
@@ -310,6 +317,13 @@ They are added *before* the predicate they are applied to.
 
 Note that the direct object (here `Z`) relates to the predicate (here `Y`) and *not* to the preverb.
 The individual preverbs are covered in more detail [here](https://github.com/kilipan/nasin-toki#more-info-on-preverbs).
+
+### negation of preverbs
+As with prepositions, preverbs cannot be modified when used in their grammatical function. But we can also follow them with the particle `ala`.
+This negates the preverb.
+
+`mi wile ala toki` - "I don't want to talk."  
+`waso li kama ala suli` - "The bird didn't become important."
 
 
 ## how to say "and"
