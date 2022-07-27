@@ -70,13 +70,13 @@ going over examples, explorations of the semantic possibilities, and interaction
         - [the particle `la`](https://github.com/kilipan/nasin-toki#the-particle-la)
         - [the particle `pi`](https://github.com/kilipan/nasin-toki#the-particle-pi-1)
         - [the particle `o`](https://github.com/kilipan/nasin-toki#the-particle-o)
+        - [the particle `anu`](https://github.com/kilipan/nasin-toki#the-particle-anu)
         - [the emoticle `a`](https://github.com/kilipan/nasin-toki#the-emoticle-a)
     - [more info on `ni`](https://github.com/kilipan/nasin-toki#more-info-on-ni)
     - [more info on pseudo-particles](https://github.com/kilipan/nasin-toki#more-info-on-particles)
         - [the pseudo-particle `nanpa`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-nanpa)
         - [the pseudo-particle `ala`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-ala)
         - [the pseudo-particle `taso`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-taso)
-        - [the pseudo-particle `anu`](https://github.com/kilipan/nasin-toki#the-pseudo-particle-anu)
     - [a comparative analysis of prepositions](https://github.com/kilipan/nasin-toki#a-comparative-analysis-of-prepositions)
     - [more info on preverbs](https://github.com/kilipan/nasin-toki#more-info-on-preverbs)
     - [more info on content words (WIP)](https://github.com/kilipan/nasin-toki#more-info-on-content-words)
@@ -130,7 +130,7 @@ Importantly, when these word types are mentioned in this document, the correspon
 For usage details, see the respective sections on the particles in the [in-depth part](https://github.com/kilipan/nasin-toki#in-depth).
 
 #### pure particles
-`en`, `li`, `e`, `la`, `pi`, `o`
+`en`, `li`, `e`, `la`, `pi`, `o`, `anu`
 
 *Pure particles* are words that have no semantic meaning on their own.
 They are purely grammatical words that exist to mark parts of speech, context, and modifier-order.
@@ -142,9 +142,9 @@ The word `a` does not fit well into the other categories and thus gets its own p
 It is used to add emotional emphasis to words, phrases, or whole sentences.
 
 ### pseudo-particles
-`nanpa`, `kin`, `ala`, `taso`, `anu`
+`nanpa`, `kin`, `ala`, `taso`
 
-The *pseudo-particles* are words that have particle-like properties, but can sometimes also be used like content words.
+The *pseudo-particles* are words that have particle-like properties, but can also be used like content words.
 They are therefore listed as their own category.
 As with the particles, check their respective sections in the [in-depth part](https://github.com/kilipan/nasin-toki#in-depth) for more details.
 
@@ -425,6 +425,8 @@ Example:
 `ma sina li lete anu seme` - "Is it cold where you are?"  
 `lete. taso suno pini li seli a` - "Yes, but yesterday it was very warm!"
 
+Note: `anu seme` can be interpreted as just a variant of a normal `seme` question (see below) in combination with the particle `anu`.
+
 ### `seme`
 If we replace the thing that is asked for with `seme`, we can ask an open question.
 Using this construction, we ask the listener to fill the place of `seme` with the appropriate information.
@@ -446,6 +448,7 @@ Examples:
 In toki pona, building sentences that are similar to relative clauses requires multiple sentences (often just two).
 We can do so by using the word `ni` to mark the word we want to describe further,
 and then postponing that further description until the end of the current sentence.
+(Putting the description before the rest of the sentence is also fine.)
 
 Examples:  
 `jan ni li pona tawa mi: ona li mama e kasi` - "People who care for plants are good to me."  
@@ -666,6 +669,22 @@ Combining vocative and imperative can also be done easily:
 
 Note that the optative/imperative and vocative are not distinguishable when there's only one subject.
 
+### the particle `anu`
+Info on the word `anu` has always been notoriously hard to find,
+while at the same time the community's usage of it is much more varied than with other words.
+
+In general, `anu` is a conjunction meaning "or" (both exclusive and inclusive).
+We can use it to join different parts of speech into a contextually appropriate *`anu`-phrase.*
+What I am calling `anu`-phrase here consists of two valid phrases joined by the word `anu`.
+These phrases then act as a new phrase that can occur in either of the subject, the predicate and the (direct and indirect) object.
+Using `anu` inside of `pi`-phrases should be avoided due to the arising ambiguities.
+
+Examples:  
+`waso anu kala li tawa` - "The bird or the fish moves."  
+`waso li pali anu pakala e tomo` - "Birds build or destroy the nest."  
+`soweli li pali e tomo anu lupa` - "Animals build nests or burrows."
+
+
 ### the emoticle `a`
 The word `a` can be appended to any word, phrase, or sentence to add emotional emphasis.
 It can also be used on its own to express utterances like "ah!", "oh!", "wow!", etc.
@@ -709,13 +728,15 @@ We can slightly extend the usage of `nanpa` when pointing to the following, or l
 `mi toki lon kalama pana nanpa kama` - "I will speak in the next podcast episode."
 
 ### the pseudo-particle `kin`
-`kin` is an additive marker, which describes that a phrase *is* or *is doing* something as well,
+`kin` is an additive marker, which describes that a phrase *is* or *is doing* something *as well*,
 or has something being done to it as well.
-It is used very similarly to the English word "too".
+It is used similarly to the English word "too".
 
 It can be appended like a modifier to any phrase, but cannot occur as a head itself.
 The only exception is in the context-phrase `kin la`,
 where it marks the whole following sentence as an addition to what was already said.
+It is often preferable to specify more in which way the sentence is *as well*, e.g. with `sama la`
+("equivalently", "similarly", ...) or `ante la` ("also, unrelatedly", "on the other hand", ...).
 
 Examples:  
 `jan li ken pona kin` - "People can also be peaceful."  
@@ -758,24 +779,6 @@ Examples of different placement:
 Examples of head-noun taso:  
 `ona li taso` - "They are alone."  
 `mi pilin ike ala tan taso mi` - "I don't feel bad because of being alone."
-
-### the pseudo-particle `anu`
-Info on the word `anu` has always been notoriously hard to find,
-while at the same time the community's usage of it is much more varied than with other words.
-
-In general, `anu` is a conjunction meaning "or" (both exclusive and inclusive).
-We can use it to join different parts of speech into a contextually appropriate *`anu`-phrase.*
-What I am calling `anu`-phrase here consists of two valid phrases joined by the word `anu`.
-These phrases then act as a new phrase that can occur in either of the subject, the predicate and the (direct and indirect) object.
-Using `anu` inside of `pi`-phrases should be avoided due to the arising ambiguities.
-
-Examples:  
-`waso anu kala li tawa` - "The bird or the fish moves."  
-`waso li pali anu pakala e tomo` - "Birds build or destroy the nest."  
-`soweli li pali e tomo anu lupa` - "Animals build nests or burrows."
-
-We can also put `anu` in a context-phrase, to indicate that the whole sentence is an alternative to something else.  
-`anu la sina ken musi` - "Or you can play."
 
 
 ## a comparative analysis of prepositions
