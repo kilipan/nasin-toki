@@ -299,7 +299,7 @@ Example:
 Note that these last two constructions may seem strange at first. In the `sama` sentence the English copula "to be" has no equivalent.
 This is because toki pona simply doesn't have a copular content word.  
 In the `kepeken` sentence, the (seemingly direct) object is not marked with `e`. The resolution: `kepeken` is a word that does not exist in English.
-It's *indirect* object is the thing that's being used (to achieve something), not its direct object, like would be the case for the English verb "to use".
+Its *indirect* object is the thing that's being used (to achieve something), not its direct object, like would be the case for the English verb "to use".
 
 ### negation of prepositions
 Usually, prepositions cannot be modified when used in their grammatical function. We can follow them with the particle `ala`, though.
