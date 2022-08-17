@@ -187,7 +187,7 @@ Ein simpler toki-pona-Satz sieht wie folgt aus:
 
 `X li Y [e Z]`[^li-dropping]
 
-(komplexere Strukturen sind natürlich auch möglich, wenn wirklich nötig (z.B. [hier](https://github.com/kilipan/nasin-toki/blob/main/de.md#combining-different-conjunctions)))
+(komplexere Strukturen sind natürlich auch möglich, wenn wirklich nötig (z.B. [hier](https://github.com/kilipan/nasin-toki/blob/main/de.md#Kombination-verschiedener-Und-Verknüpfungen)))
 
 [^li-dropping]: Immer wenn unsere Hauptfigur, das Subject `X`, exact das Wort `mi` (und nichts weiteres) oder exakt das Wort `sina` (und nichts weiteres) ist, wird die Partikel `li` ausgelassen.
   Beispiele:
