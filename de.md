@@ -23,8 +23,8 @@ Drittens werde ich im Kapitel [Details](https://github.com/kilipan/nasin-toki/bl
 Dabei werden diejenigen Wörter, die besondere grammatikalische Funktionen haben, am Anfang stehen. Dann werden die reinen Inhaltsworte anhand von Beispielen, semantischen Möglichkeiten und Interaktionen mit den verschiedenen grammtikalischen Strukturen im Detail abgehandelt.
 (Der Inhaltswortteil wird auf unbestimmte Zeit unfertig bleiben.)
 
-
-## Inhalt
+<details>
+    <summary>## Inhalt</summary>
 
 - [nasin toki pona](https://github.com/kilipan/nasin-toki/blob/main/de.md#nasin-toki-ponaEine-gute-Art-zu-Sprechen)
     - [Lesehilfe](https://github.com/kilipan/nasin-toki/blob/main/de.md#Lesehilfe)
@@ -80,6 +80,7 @@ Dabei werden diejenigen Wörter, die besondere grammatikalische Funktionen haben
     - [Eine vergleichende Analyse von Präpositionen](https://github.com/kilipan/nasin-toki/blob/main/de.md#Eine-vergleichende-Analyse-von-Präpositionen)
     - [Mehr Infos zu Hilfsverben](https://github.com/kilipan/nasin-toki/blob/main/de.md#Mehr-Infos-zu-Hilfsverben)
     - [Mehr Infos zu Inhaltswörtern (IN ARBEIT)](https://github.com/kilipan/nasin-toki/blob/main/de.md#Mehr-Infos-zu-Inhaltswörtern)
+</details>
 
 
 ## Lesehilfe
