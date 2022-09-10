@@ -288,8 +288,10 @@ As such, we can use the prepositions as content words in phrases.
 ## how to use prepositions
 [Prepositions](https://github.com/kilipan/nasin-toki#prepositions) are generally used to mark different kinds of indirect objects.
 They can be used in two ways.
-They are either appended to the predicate they modify or come directly after `li` and become the predicate themselves.  
-- `X li Y <prep> Z`: the prepositional phrase describes the predicate `Y`  
+They are either appended to the predicate they modify (possibly including a
+direct object as well) or come directly after `li` and become the predicate
+themselves.  
+- `X li Y [e Z] <prep> W`: the prepositional phrase describes the predicate `Y`  
 - `X li <prep> Y`: the prepositional predicate describes the subject `X`'s action or state
 
 Importantly, `e` is not used to mark the prepositional objects!

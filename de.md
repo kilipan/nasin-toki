@@ -300,9 +300,10 @@ Das führt aber dazu, dass wir Präpositionen ohne große Mehrdeutigkeit als Inh
 [Präpositionen](https://github.com/kilipan/nasin-toki/blob/main/de.md#Präpositionen), die nicht
 als Inhaltswort genutzt werden, leiten verschiedene Arten indirekter Objekte
 ein. Sie können auf zwei Arten verwendet werden.
-Entweder werden sie einem Prädikat angehängt, das sie dann genauer beschreiben,
+Entweder werden sie einem Prädikat (potentiell inklusive direktem Objekt)
+angehängt, das sie dann genauer beschreiben,
 oder sie tauchen direkt nach `li` auf und werden selbst zum Prädikat.  
-- `X li Y <prep> Z`: Die Präpositionsphrase beschreibt das Prädikat `Y`  
+- `X li Y [e Z] <prep> W`: Die Präpositionsphrase beschreibt das Prädikat `Y`  
 - `X li <prep> Y`: Das präpositionale Prädikat beschreibt den Zustand oder die Aktion des Subjekts `X`
 
 Wichtig: `e` wird nicht zum markieren präpositioneller (d.h. indirekter) Objekte verwendet!
