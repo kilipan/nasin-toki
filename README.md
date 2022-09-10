@@ -514,7 +514,7 @@ Examples:
 `pona a` - "so nice!"  
 `waso suwi` - "sweet bat!"  
 `wawa tawa sina` - "may the force be with you!"  
-`tan seme a` - "why?!"
+`tan seme a` - "why?!"  
 `a` - "oh!", "ah!", "wow!", ...
 
 
