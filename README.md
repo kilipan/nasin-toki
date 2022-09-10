@@ -24,8 +24,8 @@ It will start with all the words that have special grammatical functions and the
 going over examples, explorations of the semantic possibilities, and interactions with different grammatical structures.
 (The content-word part will remain a work-in-progress for some time.)
 
-
-## table of contents
+<details>
+<summary><h2>table of contents</h2></summary>
 
 - [nasin toki pona](https://github.com/kilipan/nasin-toki#nasin-toki-ponaa-good-way-to-speak)
     - [how to read](https://github.com/kilipan/nasin-toki#how-to-read-this-grammar)
@@ -81,6 +81,7 @@ going over examples, explorations of the semantic possibilities, and interaction
     - [a comparative analysis of prepositions](https://github.com/kilipan/nasin-toki#a-comparative-analysis-of-prepositions)
     - [more info on preverbs](https://github.com/kilipan/nasin-toki#more-info-on-preverbs)
     - [more info on content words (WIP)](https://github.com/kilipan/nasin-toki#more-info-on-content-words)
+</details>
 
 
 ## how to read this grammar
