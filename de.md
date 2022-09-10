@@ -58,6 +58,7 @@ Dabei werden diejenigen Wörter, die besondere grammatikalische Funktionen haben
     - [Ordinalzahlen](https://github.com/kilipan/nasin-toki/blob/main/de.md#Ordinalzahlen)
     - [Vergleiche](https://github.com/kilipan/nasin-toki/blob/main/de.md#Vergleiche)
     - [Transitive Konstruktionen](https://github.com/kilipan/nasin-toki/blob/main/de.md#Transitive-Konstruktionen)
+    - [Ausrufe](https://github.com/kilipan/nasin-toki/blob/main/de.md#Ausrufe)
     - [Kontext](https://github.com/kilipan/nasin-toki/blob/main/de.md#Kontext)
 
 - [Details](https://github.com/kilipan/nasin-toki/blob/main/de.md#Details)
@@ -530,6 +531,26 @@ Wenn wir die Konstruktion `X li Y e Z` verwenden, meinen wir meist eins von zwei
   `mi luka e soweli len` - z.B. "Ich streichele den versteckten Hund.", oder "Ich schlage das Plüschtier."  
   `mi tomo e waso` - z.B. "Ich wende das Haus auf einen Vogel an.", also "Ich setze den Vogel ins Haus."  
   `sina telo e sina` - z.B. "Ihr wascht euch.", oder "Du beckleckerst dich mit Wasser."
+
+
+## Ausrufe
+*Ausrufe* sind eine Möglichkeit, Dinge zu kommentieren, die ohne volle Sätze
+auskommt.
+Sie bestehen üblicherweise aus einer einfachen Wortverbindung, einer
+Präpositionsphrase, oder beidem zusammen.
+Wir haben im Abschnitt zu
+[Fragen](https://github.com/kilipan/nasin-toki/blob/main/de.md#fragen) schon
+ein paar einfache Ausrufe gelernt, nämlich um auf ja-nein-Fragen zu antworten.
+Außerdem können Ausrufe unter anderem noch dazu genutzt werden, kurz zu
+kommentieren, was wir gerade wahrnehmen oder fühlen, und um unsere Meinung zu
+Dingen kundzutun.
+
+Beispiele:  
+`pona a` - "so toll!"  
+`waso suwi` - "süße Fledermaus!"  
+`wawa tawa sina` - "die Macht sei mit dir!"  
+`tan seme a` - "warum?!"  
+`a` - "oh!", "ah!", "wow!", ...
 
 
 ## Kontext

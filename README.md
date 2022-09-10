@@ -59,6 +59,7 @@ going over examples, explorations of the semantic possibilities, and interaction
     - [ordinals](https://github.com/kilipan/nasin-toki#ordinals)
     - [comparisons](https://github.com/kilipan/nasin-toki#comparisons)
     - [transitives](https://github.com/kilipan/nasin-toki#transitives)
+    - [interjections](https://github.com/kilipan/nasin-toki#interjections)
     - [context](https://github.com/kilipan/nasin-toki#context)
 
 - [in-depth](https://github.com/kilipan/nasin-toki#in-depth)
@@ -498,6 +499,23 @@ When we use the construction `X li Y e Z` we usually mean one of two things, dep
   `mi luka e soweli len` - e.g. "I pet the hidden dog.", or "I hit the plush toy."  
   `mi tomo e waso` - e.g. "I apply the house to a bird, i.e. I put the bird into the house"  
   `sina telo e sina` - e.g. "You wash yourselves.", or "You spill water on yourself."
+
+
+## interjections
+A way to comment on things without building full sentences are *interjections*.
+They usually consist of a simple phrase, a prepositional phrase, or both. We
+have already seen an example of simple interjections in the section on
+[questions](https://github.com/kilipan/nasin-toki#questions), specifically when
+answering yes-no questions. Other uses include (but aren't limited to) short
+comments on things we're currently experiencing or feeling, and expressions of
+our opinions on things.
+
+Examples:  
+`pona a` - "so nice!"  
+`waso suwi` - "sweet bat!"  
+`wawa tawa sina` - "may the force be with you!"  
+`tan seme a` - "why?!"
+`a` - "oh!", "ah!", "wow!", ...
 
 
 ## context
