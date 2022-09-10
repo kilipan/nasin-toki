@@ -24,9 +24,8 @@ Dabei werden diejenigen Wörter, die besondere grammatikalische Funktionen haben
 (Der Inhaltswortteil wird auf unbestimmte Zeit unfertig bleiben.)
 
 
-## Inhalt
 <details>
-    <summary>aufklappen...</summary>
+    <summary><h2>Inhalt</h2></summary>
 
 - [nasin toki pona](https://github.com/kilipan/nasin-toki/blob/main/de.md#nasin-toki-ponaEine-gute-Art-zu-Sprechen)
     - [Lesehilfe](https://github.com/kilipan/nasin-toki/blob/main/de.md#Lesehilfe)
