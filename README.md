@@ -214,7 +214,7 @@ Example:
 #### the direct object
 - In the example above, `Z` is the thing that the action is done to, the **direct object**
   - It can also be basically any kind of thing or being
-  - It is either the reciever of the action `Y` performed by `X`,
+  - It is either the receiver of the action `Y` performed by `X`,
     e.g. `soweli li pali e tomo` - "The animal builds a nest."
   - ... or the stimulus that `X` experiences through doing `Y`,
     e.g. `soweli li lukin e kili` - "The animal sees a fruit."
