@@ -280,7 +280,7 @@ As such, we can use the prepositions as content words in phrases.
 [^objects-in-phrases]: While this is universally true for direct objects (marked with `e`), some people do use indirect, prepositional objects in phrases.
   I personally avoid such constructions, since I dislike a few things about them.  
   (1) Their usage makes it hard to use prepositions in their content-word versions in phrases.  
-  (2) They can often be expressed by removing the preposition (if a single word is floowing it)
+  (2) They can often be expressed by removing the preposition (if a single word is following it)
   or replacing the preposition with `pi` (if multiple words are following).  
   (3) They, like all other kinds of objects, lead to recursions that I do not consider *pona.*
 
