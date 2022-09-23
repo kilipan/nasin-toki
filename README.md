@@ -866,8 +866,8 @@ of needs of the subject.
 
 Examples:  
 `ona li wile pana e kili` - "They want to donate the turnip."  
-`jan lili li wile suli` - "The child wants to be an adult."
-`mi wile tawa lon nasin noka` - "I need to walk on the footpath."
+`jan lili li wile suli` - "The child wants to be an adult."  
+`mi wile tawa lon nasin noka` - "I need to walk on the footpath."  
 `soweli suli li wile lape lon tenpo lete` - "Bears need to sleep during the cold season."
 
 #### `sona`
