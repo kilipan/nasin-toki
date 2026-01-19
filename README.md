@@ -1,3 +1,8 @@
+# *nasin toki pona* is moving to Codeberg!
+Please find its new home here: https://codeberg.org/apfel/nasin-toki
+
+This repository will stay online for some time to allow folks to update their links and bookmarks, but may be deleted at any time in the future.
+
 # nasin toki pona—a good way to speak
 *by jan Juli (kili pan Juli / cile pa n-Ile)*
 
